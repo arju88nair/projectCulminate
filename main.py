@@ -8,7 +8,9 @@ import requests
 import json
 from datetime import datetime
 import RAKE
-
+import logging
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
 
 
@@ -54,9 +56,15 @@ class scrapping:
           
         insert=mongo.db.tempMain.insert_many(array).inserted_ids
         if insert:
+        	logger.info('Inserted for '+ self.source+" " +str(datetime.now()))
         	return "Successfully inserted"
+
+
         else:
+            logger.info('Error in insertion for '+ self.source+" "+ str(datetime.now()))
             return "Something went wrong"	
+
+
 
 
 
