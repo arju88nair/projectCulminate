@@ -20,7 +20,6 @@ app.config['MONGO_DBNAME'] = 'Culminate'
 app.config['MONGO_URI'] = 'mongodb://localhost:27017/Culminate'
 
 mongo = PyMongo(app)
-api_key = str('e428fe12b6ea434ca78b3c3d3e705c15')
 
 
 
@@ -121,10 +120,10 @@ def first_route():
     return(primeURLCallCNN.callScrapping())
 
 
-    # primeURLCallNextWeb = \
-    #     primaryUrlClass(' https://newsapi.org/v1/articles?source=the-next-web&sortBy=',"The Next Web","Technology"
-    #                     )
-    # return(primeURLCallNextWeb.callScrapping())
+    primeURLCallNextWeb = \
+        primaryUrlClass(' https://newsapi.org/v1/articles?source=the-next-web&sortBy=',"The Next Web","Technology"
+                        )
+    return(primeURLCallNextWeb.callScrapping())
 
 
 
