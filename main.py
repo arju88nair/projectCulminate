@@ -7,6 +7,7 @@ from calendar import timegm
 from datetime import datetime
 import RAKE
 import logging
+import hashlib
 logging.basicConfig(filename='logger.log',level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
@@ -34,6 +35,8 @@ class scrapping:
 
     def call_url(self):
         logger.debug(self.url)
+        logging.info('\n')
+
         r = requests.get(self.url).json()
         if 'articles' in r:
 
@@ -57,8 +60,11 @@ class scrapping:
                 itemArray['source'] = self.source
                 itemArray['category'] = self.category
                 itemArray['type'] = self.type
-                itemArray['uTag'] = str(i['publishedAt']) \
-                    + self.source.replace(' ', '')
+                # m = hashlib.md5()
+                # m.update(i['title'])
+                itemArray['uTag'] = hashlib.sha256(str(i['publishedAt']).encode('utf-8')).hexdigest()[:16]
+
+
 
                 array.append(itemArray)
 
@@ -66,11 +72,15 @@ class scrapping:
             if insert:
                 logger.info('Inserted for ' + self.source + ' of type '
                             + self.type + str(datetime.now()))
+                logging.info('\n')
+
             else:
 
                 logger.warning('Error in insertion for ' + self.source
                             + ' of type ' + self.type
                             + str(datetime.now()))
+                logging.warning('\n')
+
 
 
 # URL classifying class
@@ -107,15 +117,31 @@ class primaryUrlClass:
         ApiCallpopularResponse = ApiCallpopular.call_url()
 
 
+
+
+
+
+
+
 def main():
     primeURLCallCNN = \
         primaryUrlClass('https://newsapi.org/v1/articles?source=cnn&sortBy='
                         , 'CNN', 'General')
     primeURLCallCNN.callScrapping()
+
+
+
     primeURLCallNextWeb = \
         primaryUrlClass(' https://newsapi.org/v1/articles?source=the-next-web&sortBy='
                         , 'The Next Web', 'Technology')
     primeURLCallNextWeb.callScrapping()
+
+
+
+    primeURLCallBBC = \
+        primaryUrlClass(' https://newsapi.org/v1/articles?source=bbc-news&sortBy='
+                        , 'BBC-News', 'General')
+    primeURLCallBBC.callScrapping()
 
 
 if __name__ == '__main__':
