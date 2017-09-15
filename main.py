@@ -62,7 +62,7 @@ class scrapping:
                 itemArray['type'] = self.type
                 # m = hashlib.md5()
                 # m.update(i['title'])
-                itemArray['uTag'] = hashlib.sha256(str(i['publishedAt']).encode('utf-8')).hexdigest()[:16]
+                itemArray['uTag'] = hashlib.sha256(str(i['title']).encode('utf-8')).hexdigest()[:16]
 
 
 
@@ -118,12 +118,52 @@ class primaryUrlClass:
 
 
 
+#db1.gobuzz.mobi
+class allocation:
+
+    def __init__(self,name):
+        self.name=name
+
+    def allocation_fun(self):
+        for doc in db.tempMain.find({}):
+            if str(doc['category']) == "General":
+                if not db.generalMain.find({"uTag":str(doc['uTag'])}).count() > 0:
+                    insertDoc=db.generalMain.insert_one(doc)
+                    if insertDoc:
+                        logging.info('Insert new for general')
+                        logging.info('\n')
+                    else:
+                        logging.info('Error in insertion for general')
+                        logging.info('\n')
+            elif str(doc['category']) == "Technology":
+                if not db.techMain.find({"uTag":str(doc['uTag'])}).count() > 0:
+                    insertDoc=db.techMain.insert_one(doc)
+                    if insertDoc:
+                        logging.info('Insert new for Technology')
+                        logging.info('\n')
+                    else:
+                        logging.info('Error in insertion for Technology')
+                        logging.info('\n')
+                
+
+
+                  
+            else:
+                print("DSA")          
+
+
+        remove=db.tempMain.remove()        
+
+
 
 
 
 
 
 def main():
+
+   
+   
     primeURLCallCNN = \
         primaryUrlClass('https://newsapi.org/v1/articles?source=cnn&sortBy='
                         , 'CNN', 'General')
@@ -142,6 +182,16 @@ def main():
         primaryUrlClass(' https://newsapi.org/v1/articles?source=bbc-news&sortBy='
                         , 'BBC-News', 'General')
     primeURLCallBBC.callScrapping()
+
+
+
+    allocationCall=allocation("Hi");
+    print(allocationCall.allocation_fun())
+
+    return "ih"
+
+
+
 
 
 if __name__ == '__main__':

@@ -1,0 +1,310 @@
+DEBUG:__main__:https://newsapi.org/v1/articles?source=cnn&sortBy=top&apiKey=e428fe12b6ea434ca78b3c3d3e705c15
+INFO:root:
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v1/articles?source=cnn&sortBy=top&apiKey=e428fe12b6ea434ca78b3c3d3e705c15 HTTP/1.1" 200 5239
+INFO:__main__:Inserted for CNN of type top2017-09-15 23:06:17.901390
+INFO:root:
+
+DEBUG:__main__:https://newsapi.org/v1/articles?source=cnn&sortBy=latest&apiKey=e428fe12b6ea434ca78b3c3d3e705c15
+INFO:root:
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v1/articles?source=cnn&sortBy=latest&apiKey=e428fe12b6ea434ca78b3c3d3e705c15 HTTP/1.1" 400 136
+DEBUG:__main__:https://newsapi.org/v1/articles?source=cnn&sortBy=popular&apiKey=e428fe12b6ea434ca78b3c3d3e705c15
+INFO:root:
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v1/articles?source=cnn&sortBy=popular&apiKey=e428fe12b6ea434ca78b3c3d3e705c15 HTTP/1.1" 400 137
+DEBUG:__main__: https://newsapi.org/v1/articles?source=the-next-web&sortBy=top&apiKey=e428fe12b6ea434ca78b3c3d3e705c15
+INFO:root:
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v1/articles?source=the-next-web&sortBy=top&apiKey=e428fe12b6ea434ca78b3c3d3e705c15 HTTP/1.1" 400 142
+DEBUG:__main__: https://newsapi.org/v1/articles?source=the-next-web&sortBy=latest&apiKey=e428fe12b6ea434ca78b3c3d3e705c15
+INFO:root:
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v1/articles?source=the-next-web&sortBy=latest&apiKey=e428fe12b6ea434ca78b3c3d3e705c15 HTTP/1.1" 200 5654
+INFO:__main__:Inserted for The Next Web of type latest2017-09-15 23:06:22.248731
+INFO:root:
+
+DEBUG:__main__: https://newsapi.org/v1/articles?source=the-next-web&sortBy=popular&apiKey=e428fe12b6ea434ca78b3c3d3e705c15
+INFO:root:
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v1/articles?source=the-next-web&sortBy=popular&apiKey=e428fe12b6ea434ca78b3c3d3e705c15 HTTP/1.1" 400 146
+DEBUG:__main__: https://newsapi.org/v1/articles?source=bbc-news&sortBy=top&apiKey=e428fe12b6ea434ca78b3c3d3e705c15
+INFO:root:
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v1/articles?source=bbc-news&sortBy=top&apiKey=e428fe12b6ea434ca78b3c3d3e705c15 HTTP/1.1" 200 3872
+INFO:__main__:Inserted for BBC-News of type top2017-09-15 23:06:24.492226
+INFO:root:
+
+DEBUG:__main__: https://newsapi.org/v1/articles?source=bbc-news&sortBy=latest&apiKey=e428fe12b6ea434ca78b3c3d3e705c15
+INFO:root:
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v1/articles?source=bbc-news&sortBy=latest&apiKey=e428fe12b6ea434ca78b3c3d3e705c15 HTTP/1.1" 400 141
+DEBUG:__main__: https://newsapi.org/v1/articles?source=bbc-news&sortBy=popular&apiKey=e428fe12b6ea434ca78b3c3d3e705c15
+INFO:root:
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v1/articles?source=bbc-news&sortBy=popular&apiKey=e428fe12b6ea434ca78b3c3d3e705c15 HTTP/1.1" 400 142
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for Technology
+INFO:root:
+
+INFO:root:Insert new for Technology
+INFO:root:
+
+INFO:root:Insert new for Technology
+INFO:root:
+
+INFO:root:Insert new for Technology
+INFO:root:
+
+INFO:root:Insert new for Technology
+INFO:root:
+
+INFO:root:Insert new for Technology
+INFO:root:
+
+INFO:root:Insert new for Technology
+INFO:root:
+
+INFO:root:Insert new for Technology
+INFO:root:
+
+INFO:root:Insert new for Technology
+INFO:root:
+
+INFO:root:Insert new for Technology
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+DEBUG:__main__:https://newsapi.org/v1/articles?source=cnn&sortBy=top&apiKey=e428fe12b6ea434ca78b3c3d3e705c15
+INFO:root:
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v1/articles?source=cnn&sortBy=top&apiKey=e428fe12b6ea434ca78b3c3d3e705c15 HTTP/1.1" 200 5239
+INFO:__main__:Inserted for CNN of type top2017-09-15 23:06:50.507191
+INFO:root:
+
+DEBUG:__main__:https://newsapi.org/v1/articles?source=cnn&sortBy=latest&apiKey=e428fe12b6ea434ca78b3c3d3e705c15
+INFO:root:
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v1/articles?source=cnn&sortBy=latest&apiKey=e428fe12b6ea434ca78b3c3d3e705c15 HTTP/1.1" 400 136
+DEBUG:__main__:https://newsapi.org/v1/articles?source=cnn&sortBy=popular&apiKey=e428fe12b6ea434ca78b3c3d3e705c15
+INFO:root:
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v1/articles?source=cnn&sortBy=popular&apiKey=e428fe12b6ea434ca78b3c3d3e705c15 HTTP/1.1" 400 137
+DEBUG:__main__: https://newsapi.org/v1/articles?source=the-next-web&sortBy=top&apiKey=e428fe12b6ea434ca78b3c3d3e705c15
+INFO:root:
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org
+DEBUG:__main__:https://newsapi.org/v1/articles?source=cnn&sortBy=top&apiKey=e428fe12b6ea434ca78b3c3d3e705c15
+INFO:root:
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v1/articles?source=cnn&sortBy=top&apiKey=e428fe12b6ea434ca78b3c3d3e705c15 HTTP/1.1" 200 5239
+INFO:__main__:Inserted for CNN of type top2017-09-15 23:08:32.525519
+INFO:root:
+
+DEBUG:__main__:https://newsapi.org/v1/articles?source=cnn&sortBy=latest&apiKey=e428fe12b6ea434ca78b3c3d3e705c15
+INFO:root:
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v1/articles?source=cnn&sortBy=latest&apiKey=e428fe12b6ea434ca78b3c3d3e705c15 HTTP/1.1" 400 136
+DEBUG:__main__:https://newsapi.org/v1/articles?source=cnn&sortBy=popular&apiKey=e428fe12b6ea434ca78b3c3d3e705c15
+INFO:root:
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v1/articles?source=cnn&sortBy=popular&apiKey=e428fe12b6ea434ca78b3c3d3e705c15 HTTP/1.1" 400 137
+DEBUG:__main__: https://newsapi.org/v1/articles?source=the-next-web&sortBy=top&apiKey=e428fe12b6ea434ca78b3c3d3e705c15
+INFO:root:
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v1/articles?source=the-next-web&sortBy=top&apiKey=e428fe12b6ea434ca78b3c3d3e705c15 HTTP/1.1" 400 142
+DEBUG:__main__: https://newsapi.org/v1/articles?source=the-next-web&sortBy=latest&apiKey=e428fe12b6ea434ca78b3c3d3e705c15
+INFO:root:
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v1/articles?source=the-next-web&sortBy=latest&apiKey=e428fe12b6ea434ca78b3c3d3e705c15 HTTP/1.1" 200 5654
+INFO:__main__:Inserted for The Next Web of type latest2017-09-15 23:08:37.402036
+INFO:root:
+
+DEBUG:__main__: https://newsapi.org/v1/articles?source=the-next-web&sortBy=popular&apiKey=e428fe12b6ea434ca78b3c3d3e705c15
+INFO:root:
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v1/articles?source=the-next-web&sortBy=popular&apiKey=e428fe12b6ea434ca78b3c3d3e705c15 HTTP/1.1" 400 146
+DEBUG:__main__: https://newsapi.org/v1/articles?source=bbc-news&sortBy=top&apiKey=e428fe12b6ea434ca78b3c3d3e705c15
+INFO:root:
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v1/articles?source=bbc-news&sortBy=top&apiKey=e428fe12b6ea434ca78b3c3d3e705c15 HTTP/1.1" 200 3872
+INFO:__main__:Inserted for BBC-News of type top2017-09-15 23:08:39.876807
+INFO:root:
+
+DEBUG:__main__: https://newsapi.org/v1/articles?source=bbc-news&sortBy=latest&apiKey=e428fe12b6ea434ca78b3c3d3e705c15
+INFO:root:
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v1/articles?source=bbc-news&sortBy=latest&apiKey=e428fe12b6ea434ca78b3c3d3e705c15 HTTP/1.1" 400 141
+DEBUG:__main__: https://newsapi.org/v1/articles?source=bbc-news&sortBy=popular&apiKey=e428fe12b6ea434ca78b3c3d3e705c15
+INFO:root:
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v1/articles?source=bbc-news&sortBy=popular&apiKey=e428fe12b6ea434ca78b3c3d3e705c15 HTTP/1.1" 400 142
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for Technology
+INFO:root:
+
+INFO:root:Insert new for Technology
+INFO:root:
+
+INFO:root:Insert new for Technology
+INFO:root:
+
+INFO:root:Insert new for Technology
+INFO:root:
+
+INFO:root:Insert new for Technology
+INFO:root:
+
+INFO:root:Insert new for Technology
+INFO:root:
+
+INFO:root:Insert new for Technology
+INFO:root:
+
+INFO:root:Insert new for Technology
+INFO:root:
+
+INFO:root:Insert new for Technology
+INFO:root:
+
+INFO:root:Insert new for Technology
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:root:Insert new for general
+INFO:root:
+
