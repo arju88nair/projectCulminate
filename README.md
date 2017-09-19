@@ -1,8 +1,15 @@
-# projectCulminate
+#Project Culminate
 
 As the title says,Project Culminate.
-Currently an API structure for culminating news from different sources and curating them. 
+Currently an API structure for culminating news from different sources and curating them.
 Done in python
+
+Instead of de[ending upon  3rd party API service for news feeds, started scrapping RSS feeds my own for independent developing and better confidence on the process
+
+
+TO be done in future:
+1) Has to include asynchio to increase performance
+2) Has to train a model to weed out fake,corrupted,incomplete articles
 
 
 Licensing
