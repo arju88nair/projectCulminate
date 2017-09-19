@@ -4,6 +4,14 @@ from pymongo import MongoClient
 import json
 import re
 import datetime
+import logging
+import RAKE
+from calendar import timegm
+from datetime import datetime
+import hashlib
+
+logging.basicConfig(filename = 'logger.log',level = logging.DEBUG)
+logger  =  logging.getLogger(__name__)
 
 def Type1parser(url,source,category,tag):
     """
@@ -25,7 +33,12 @@ def Type1parser(url,source,category,tag):
         if 'published' in item:
             publishedTag=item.published
         if 'media_content' in item:
-             posts.append({
+            Rake  =  RAKE.Rake('stopwords_en.txt')  # takes stopwords as list of strings
+            words  =  Rake.run(item.title)
+            tagWordArray  =  []
+            for word in words:
+                tagWordArray.append(word[0].title())
+            posts.append({
             'title': item.title,
             'summary': summarys,
             'link': item.link,
@@ -33,10 +46,14 @@ def Type1parser(url,source,category,tag):
             'published':publishedTag,
             'source':source,
             'category':category,
-            'type':tag
+            'type':tag,
+            'tags':tagWordArray,
+            'created_at':str(datetime.now()),
+            'uTag':hashlib.sha256(str(item.title).encode('utf-8')).hexdigest()[:16]
         })
 
-        print(item.title)
+        print(posts)
+        return
     # print(json.dumps(posts))
 
 
@@ -55,6 +72,7 @@ def main():
     Type1parser("http://rss.cnn.com/rss/edition_space.rss","CNN","Science","Top")
     Type1parser("http://rss.cnn.com/rss/edition_entertainment.rss","CNN","Entertainment","Top")
     Type1parser("http://rss.cnn.com/rss/cnn_latest.rss","CNN","General","Latest")
+
     print("\n")
 
 
