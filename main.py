@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-import feedparser # pip install feedparser
+import feedparser  # pip install feedparser
 from pymongo import MongoClient
 import json
 import re
@@ -10,14 +10,12 @@ from calendar import timegm
 from datetime import datetime
 import hashlib
 
-logging.basicConfig(filename = 'logger.log',level = logging.DEBUG)
-logger  =  logging.getLogger(__name__)
+logging.basicConfig(filename='logger.log', level=logging.DEBUG)
+logger = logging.getLogger(__name__)
 
 
-connection  =  MongoClient('mongodb://localhost:27017/Culminate')
-db  =  connection.Culminate
-
-
+connection = MongoClient('mongodb://localhost:27017/Culminate')
+db = connection.Culminate
 
 
 class insertingClass:
@@ -28,135 +26,117 @@ class insertingClass:
     @params source :the source of the data
 
      """
-    def __init__(self,data,category,source):
-        self.data=data
-        self.category=category
-        self.source=source
 
-
+    def __init__(self, data, category, source):
+        self.data = data
+        self.category = category
+        self.source = source
 
     def mainClassObj(self):
         print(self.data['category'])
-
-
-
 
     def tempTablePush(self):
         """
         Here it is inserted  in the temptable for future classification and insertion
 
         """
-        insert  =  db.tempMain.insert_many(self.data).inserted_ids
+        insert = db.tempMain.insert_many(self.data).inserted_ids
         if insert:
-                logger.info('Inserted for ' + self.source + ' of type '
-                            + self.category + str(datetime.now()))+ ' in tempMain '
-                logging.info('\n')
+            logger.info('Inserted for ' + self.source + ' of type '
+                        + str(self.category) + '' + str(datetime.now()) + ' in tempMain ')
+            logging.info('\n')
         else:
 
-                logger.warning('Error in insertion for ' + self.source
-                            + ' of type ' + self.category+ ' in tempMain '
-                            + str(datetime.now()))
-                logging.warning('\n')
+            logger.warning('Error in insertion for ' + self.source
+                           + ' of type ' + self.category + ' in tempMain '
+                           + str(datetime.now()))
+            logging.warning('\n')
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-def Type1parser(url,source,category,tag):
+def Type1parser(url, source, category, tag):
     """
 
     This class handles all the feed parsing jobs initialted by the main function
 
     """
 
-
     feed = feedparser.parse(url)
-    array  =  []
+    array = []
     for item in feed['entries']:
 
-
-        summarys=""
+        summarys = ""
         if 'summary' in item:
-            summarys=item.summary
-        publishedTag=""
+            summarys = item.summary
+        publishedTag = ""
         if 'published' in item:
-            publishedTag=item.published
+            publishedTag = item.published
         if 'media_content' in item:
-            Rake  =  RAKE.Rake('stopwords_en.txt')  # takes stopwords as list of strings
-            words  =  Rake.run(item.title)
-            tagWordArray  =  []
+            # takes stopwords as list of strings
+            Rake = RAKE.Rake('stopwords_en.txt')
+            words = Rake.run(item.title)
+            tagWordArray = []
             for word in words:
                 tagWordArray.append(word[0].title())
-            itemArray  =  dict()
-            itemArray['title']  = item.title
-            itemArray['summary']  = summarys
-            itemArray['link']  = item.link
-            itemArray['image']  = item.media_content[0]['url']
-            itemArray['published']  = publishedTag
-            itemArray['source']  = source
-            itemArray['type']  = tag
-            itemArray['category']  = category
-            itemArray['tags']  = tagWordArray
-            itemArray['created_at']  = str(datetime.now())
-            itemArray['uTag']  = hashlib.sha256(str(item.title).encode('utf-8')).hexdigest()[:16]
+            itemArray = dict()
+            itemArray['title'] = item.title
+            itemArray['summary'] = summarys
+            itemArray['link'] = item.link
+            itemArray['image'] = item.media_content[0]['url']
+            itemArray['published'] = publishedTag
+            itemArray['source'] = source
+            itemArray['type'] = tag
+            itemArray['category'] = category
+            itemArray['tags'] = tagWordArray
+            itemArray['created_at'] = str(datetime.now())
+            itemArray['uTag'] = hashlib.sha256(
+                str(item.title).encode('utf-8')).hexdigest()[:16]
             array.append(itemArray)
-
-
 
         # insertingClassObject=insertingClass(itemArray,category)
         # insertingClassObject.mainClassObj()
         # return "hi";
 
-
     # print(json.dumps(posts))
-    tempPush=insertingClass(array,category,url)
+    tempPush = insertingClass(array, category, url)
     tempPush.tempTablePush()
-
-
-
-
-
 
 
 def main():
     """  Calling the main class parser for appropriate  rss feeds """
 
-
-    Type1parser("http://rss.cnn.com/rss/edition.rss","CNN","General","Top")
-    Type1parser("http://rss.cnn.com/rss/edition_world.rss","CNN","World","Top")
-    Type1parser("http://rss.cnn.com/rss/edition_technology.rss","CNN","Technology","Top")
-    Type1parser("http://rss.cnn.com/rss/edition_space.rss","CNN","Science","Top")
-    Type1parser("http://rss.cnn.com/rss/edition_entertainment.rss","CNN","Entertainment","Top")
-    Type1parser("http://rss.cnn.com/rss/cnn_latest.rss","CNN","General","Latest")
+    Type1parser("http://rss.cnn.com/rss/edition.rss", "CNN", "General", "Top")
+    Type1parser("http://rss.cnn.com/rss/edition_world.rss",
+                "CNN", "World", "Top")
+    Type1parser("http://rss.cnn.com/rss/edition_technology.rss",
+                "CNN", "Technology", "Top")
+    Type1parser("http://rss.cnn.com/rss/edition_space.rss",
+                "CNN", "Science", "Top")
+    Type1parser("http://rss.cnn.com/rss/edition_entertainment.rss",
+                "CNN", "Entertainment", "Top")
+    Type1parser("http://rss.cnn.com/rss/cnn_latest.rss",
+                "CNN", "General", "Latest")
 
     print("\n")
 
+    Type1parser("http://feeds.bbci.co.uk/news/rss.xml",
+                "BBC", "General", "Top")
+    Type1parser("http://feeds.bbci.co.uk/news/world/rss.xml",
+                "BBC", "World", "Top")
+    Type1parser("http://feeds.bbci.co.uk/news/politics/rss.xml",
+                "BBC", "Politics", "Top")
+    Type1parser("http://feeds.bbci.co.uk/news/business/rss.xml",
+                "BBC", "Business", "Top")
+    Type1parser("http://feeds.bbci.co.uk/news/health/rss.xml",
+                "BBC", "Health", "Top")
+    Type1parser("http://feeds.bbci.co.uk/news/education/rss.xml",
+                "BBC", "Education", "Top")
+    Type1parser("http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+                "BBC", "Science", "Top")
+    Type1parser("http://feeds.bbci.co.uk/news/technology/rss.xml",
+                "BBC", "Technology", "Top")
+    Type1parser("http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+                "BBC", "Entertainment", "Top")
 
-    Type1parser("http://feeds.bbci.co.uk/news/rss.xml","BBC","General","Top")
-    Type1parser("http://feeds.bbci.co.uk/news/world/rss.xml","BBC","World","Top")
-    Type1parser("http://feeds.bbci.co.uk/news/politics/rss.xml","BBC","Politics","Top")
-    Type1parser("http://feeds.bbci.co.uk/news/business/rss.xml","BBC","Business","Top")
-    Type1parser("http://feeds.bbci.co.uk/news/health/rss.xml","BBC","Health","Top")
-    Type1parser("http://feeds.bbci.co.uk/news/education/rss.xml","BBC","Education","Top")
-    Type1parser("http://feeds.bbci.co.uk/news/science_and_environment/rss.xml","BBC","Science","Top")
-    Type1parser("http://feeds.bbci.co.uk/news/technology/rss.xml","BBC","Technology","Top")
-    Type1parser("http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml","BBC","Entertainment","Top")
 
-
-
-
-
-
-
-if __name__  ==  '__main__':
+if __name__ == '__main__':
     main()

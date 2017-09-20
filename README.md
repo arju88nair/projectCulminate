@@ -2,11 +2,11 @@ Project Culminate
 =========
 
 
-As the title says,Project Culminate.
+Project Culminate,
 Currently an API structure for culminating news from different sources and curating them.
 Done in python
 
-Instead of de[ending upon  3rd party API service for news feeds, started scrapping RSS feeds my own for independent developing and better confidence on the process
+Instead of depending upon  3rd party API service for news feeds, started scrapping RSS feeds my own for independent developing and better confidence on the process
 
 
 To be done in future:
