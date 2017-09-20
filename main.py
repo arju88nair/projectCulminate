@@ -13,6 +13,65 @@ import hashlib
 logging.basicConfig(filename = 'logger.log',level = logging.DEBUG)
 logger  =  logging.getLogger(__name__)
 
+
+connection  =  MongoClient('mongodb://localhost:27017/Culminate')
+db  =  connection.Culminate
+
+
+
+
+class insertingClass:
+    """
+    insertingClass does various sorting and inserting data to appropriate collections
+    @params data : contains the data
+    @params category : the category of the data
+    @params source :the source of the data
+
+     """
+    def __init__(self,data,category,source):
+        self.data=data
+        self.category=category
+        self.source=source
+
+
+
+    def mainClassObj(self):
+        print(self.data['category'])
+
+
+
+
+    def tempTablePush(self):
+        """
+        Here it is inserted  in the temptable for future classification and insertion
+
+        """
+        insert  =  db.tempMain.insert_many(self.data).inserted_ids
+        if insert:
+                logger.info('Inserted for ' + self.source + ' of type '
+                            + self.category + str(datetime.now()))+ ' in tempMain '
+                logging.info('\n')
+        else:
+
+                logger.warning('Error in insertion for ' + self.source
+                            + ' of type ' + self.category+ ' in tempMain '
+                            + str(datetime.now()))
+                logging.warning('\n')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 def Type1parser(url,source,category,tag):
     """
 
@@ -22,7 +81,7 @@ def Type1parser(url,source,category,tag):
 
 
     feed = feedparser.parse(url)
-    posts = []
+    array  =  []
     for item in feed['entries']:
 
 
@@ -38,23 +97,30 @@ def Type1parser(url,source,category,tag):
             tagWordArray  =  []
             for word in words:
                 tagWordArray.append(word[0].title())
-            posts.append({
-            'title': item.title,
-            'summary': summarys,
-            'link': item.link,
-            'image':item.media_content[0]['url'],
-            'published':publishedTag,
-            'source':source,
-            'category':category,
-            'type':tag,
-            'tags':tagWordArray,
-            'created_at':str(datetime.now()),
-            'uTag':hashlib.sha256(str(item.title).encode('utf-8')).hexdigest()[:16]
-        })
+            itemArray  =  dict()
+            itemArray['title']  = item.title
+            itemArray['summary']  = summarys
+            itemArray['link']  = item.link
+            itemArray['image']  = item.media_content[0]['url']
+            itemArray['published']  = publishedTag
+            itemArray['source']  = source
+            itemArray['type']  = tag
+            itemArray['category']  = category
+            itemArray['tags']  = tagWordArray
+            itemArray['created_at']  = str(datetime.now())
+            itemArray['uTag']  = hashlib.sha256(str(item.title).encode('utf-8')).hexdigest()[:16]
+            array.append(itemArray)
 
-        print(posts)
-        return
+
+
+        # insertingClassObject=insertingClass(itemArray,category)
+        # insertingClassObject.mainClassObj()
+        # return "hi";
+
+
     # print(json.dumps(posts))
+    tempPush=insertingClass(array,category,url)
+    tempPush.tempTablePush()
 
 
 
