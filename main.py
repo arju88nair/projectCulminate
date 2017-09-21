@@ -36,42 +36,23 @@ class insertingClass:
 
     def individualInsertObj(self):
         if self.data['category'] == "General":
-            print(self.data['title'])
-            if not db.generalMain.find({"uTag": str(self.data['uTag'])}).count() > 0:
-                # if db.generalMain.count() == 0:
-                #     insertDoc = db.generalMain.insert_one(self.data)
-                for document in db.generalMain.find():
-                    print(self.data['title'])
-                    print("\n")
-                    collision = fuzz.token_sort_ratio(
-                        str(self.data['title']), document['title'])
-                    print(collision)
-                    if int(collision) < 50:
-                        print("d")
-                        insertDoc = db.generalMain.insert_one(self.data)
-                        if insertDoc:
-                            logging.info('Insert new for general')
-                            logging.info('\n')
-                        else:
-                            logging.info('Error in insertion for general')
-                            logging.info('\n')
-
-    def tempTablePush(self):
-        """
-        Here it is inserted  in the temptable for future classification and insertion
-
-        """
-        insert = db.tempMain.insert_many(self.data).inserted_ids
-        if insert:
-            logger.info('Inserted for ' + self.source + ' of type '
-                        + str(self.category) + '' + str(datetime.now()) + ' in tempMain ')
-            logging.info('\n')
-        else:
-
-            logger.warning('Error in insertion for ' + self.source
-                           + ' of type ' + self.category + ' in tempMain '
-                           + str(datetime.now()))
-            logging.warning('\n')
+            if db.generalMain.count() == 0:
+                db.generalMain.insert_one(self.data)
+            else:
+                if not db.generalMain.find({"uTag": str(self.data['uTag'])}).count() > 0:
+                    db.generalMain.insert_one(self.data)
+                    for document in db.generalMain.find():
+                        collision = fuzz.token_sort_ratio(
+                            str(self.data['title']), document['title'])
+                        print(collision)
+                        if int(collision) < 50:
+                            insertDoc = db.generalMain.insert_one(self.data)
+                            if insertDoc:
+                                logging.info('Insert new for general')
+                                logging.info('\n')
+                            else:
+                                logging.info('Error in insertion for general')
+                                logging.info('\n')
 
 
 def Type1parser(url, source, category, tag):
@@ -113,10 +94,16 @@ def Type1parser(url, source, category, tag):
                 str(item.title).encode('utf-8')).hexdigest()[:16]
             individualInsert = insertingClass(itemArray, category, source)
             individualInsert.individualInsertObj()
+            # array.append(itemArray)
 
         # insertingClassObject=insertingClass(itemArray,category)
         # insertingClassObject.mainClassObj()
         # return "hi";
+
+    # insertingClassObject = insertingClass(array, category, source)
+    # insertingClassObject.tempTablePush()
+    # allocationCall = allocation(source)
+    # allocationCall.allocation_fun()
 
     # print(json.dumps(posts))
 

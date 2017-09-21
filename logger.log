@@ -1,38 +1,119 @@
-INFO:__main__:Inserted for http://rss.cnn.com/rss/edition.rss of type General2017-09-20 12:15:51.986572
+INFO:__main__:Inserted for CNN of type General2017-09-21 17:11:11.281071 in tempMain
 INFO:root:
 
-INFO:__main__:Inserted for http://rss.cnn.com/rss/edition.rss of type General2017-09-20 12:16:24.147114
+INFO:__main__:Inserted for CNN of type General2017-09-21 17:11:25.632498 in tempMain
 INFO:root:
 
-INFO:__main__:Inserted for http://rss.cnn.com/rss/edition.rss of type General2017-09-20 12:22:23.471046
+INFO:root:Started allocation class for CNN
+INFO:__main__:Inserted for CNN of type General2017-09-21 17:11:51.689520 in tempMain
 INFO:root:
 
-INFO:__main__:Inserted for http://rss.cnn.com/rss/edition.rss of type General2017-09-20 12:22:45.050014
+INFO:root:Started allocation class for CNN
+INFO:__main__:Inserted for CNN of type General2017-09-21 17:13:29.585450 in tempMain
 INFO:root:
 
-INFO:__main__:Inserted for http://rss.cnn.com/rss/edition.rss of type General2017-09-20 19:01:14.489293
-INFO:__main__:Inserted for http://rss.cnn.com/rss/edition.rss of type General 2017-09-20 19:02:27.135121
-INFO:__main__:Inserted for http://rss.cnn.com/rss/edition.rss of type General 2017-09-20 19:03:04.325429
-INFO:__main__:Inserted for http://rss.cnn.com/rss/edition.rss of type General2017-09-20 19:03:25.227570
-INFO:__main__:Inserted for http://rss.cnn.com/rss/edition.rss of type General2017-09-20 19:52:11.993404
-INFO:__main__:Inserted for http://rss.cnn.com/rss/edition.rss of type General2017-09-20 19:53:01.168666
+INFO:root:Started allocation class for CNN
+INFO:__main__:Inserted for CNN of type General2017-09-21 17:13:56.279489 in tempMain 
 INFO:root:
 
+INFO:root:Started allocation class for CNN
+INFO:__main__:Inserted for CNN of type General2017-09-21 17:36:38.669082 in tempMain 
+INFO:root:
+
+INFO:root:Started allocation class for CNN
+INFO:__main__:Inserted for CNN of type General2017-09-21 17:37:03.092186 in tempMain 
+INFO:root:
+
+INFO:root:Started allocation class for CNN
+INFO:__main__:Inserted for CNN of type General2017-09-21 17:38:26.009937 in tempMain 
+INFO:root:
+
+INFO:root:Started allocation class for CNN
+INFO:__main__:Inserted for CNN of type General2017-09-21 17:38:58.321726 in tempMain 
+INFO:root:
+
+INFO:root:Started allocation class for CNN
+INFO:__main__:Inserted for CNN of type General2017-09-21 17:40:50.354195 in tempMain 
+INFO:root:
+
+INFO:root:Started allocation class for CNN
+INFO:__main__:Inserted for CNN of type General2017-09-21 17:41:50.670849 in tempMain 
+INFO:root:
+
+INFO:root:Started allocation class for CNN
+INFO:__main__:Inserted for CNN of type General2017-09-21 17:42:10.277496 in tempMain 
+INFO:root:
+
+INFO:root:Started allocation class for CNN
+INFO:__main__:Inserted for CNN of type General2017-09-21 17:48:55.649961 in tempMain 
+INFO:root:
+
+INFO:root:Started allocation class for CNN
+INFO:__main__:Inserted for CNN of type General2017-09-21 17:50:12.046795 in tempMain 
+INFO:root:
+
+INFO:root:Started allocation class for CNN
+INFO:__main__:Inserted for CNN of type General2017-09-21 17:50:31.490316 in tempMain 
+INFO:root:
+
+INFO:root:Started allocation class for CNN
+INFO:__main__:Inserted for CNN of type General2017-09-21 17:50:43.631643 in tempMain 
+INFO:root:
+
+INFO:root:Started allocation class for CNN
+INFO:__main__:Inserted for CNN of type General2017-09-21 17:50:55.123501 in tempMain 
+INFO:root:
+
+INFO:root:Started allocation class for CNN
+INFO:__main__:Inserted for CNN of type General2017-09-21 17:52:32.709999 in tempMain 
+INFO:root:
+
+INFO:root:Started allocation class for CNN
 INFO:root:Insert new for general
 INFO:root:
 
 INFO:root:Insert new for general
 INFO:root:
 
+INFO:__main__:Inserted for CNN of type General2017-09-21 17:52:59.877271 in tempMain 
+INFO:root:
+
+INFO:root:Started allocation class for CNN
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:__main__:Inserted for CNN of type General2017-09-21 17:53:54.443853 in tempMain 
+INFO:root:
+
+INFO:root:Started allocation class for CNN
 INFO:root:Insert new for general
 INFO:root:
 
 INFO:root:Insert new for general
 INFO:root:
 
+INFO:__main__:Inserted for CNN of type General2017-09-21 17:57:11.591735 in tempMain 
+INFO:root:
+
+INFO:root:Started allocation class for CNN
 INFO:root:Insert new for general
 INFO:root:
 
 INFO:root:Insert new for general
 INFO:root:
 
+INFO:__main__:Inserted for CNN of type General2017-09-21 18:05:04.676322 in tempMain 
+INFO:root:
+
+INFO:root:Started allocation class for CNN
+INFO:root:Insert new for general
+INFO:root:
+
+INFO:__main__:Inserted for CNN of type General2017-09-21 18:07:49.613898 in tempMain 
+INFO:root:
+
+INFO:root:Started allocation class for CNN
+INFO:__main__:Inserted for CNN of type General2017-09-21 18:08:04.426470 in tempMain 
+INFO:root:
+
+INFO:root:Started allocation class for CNN
