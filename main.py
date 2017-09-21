@@ -19,6 +19,8 @@ logger = logging.getLogger(__name__)
 connection = MongoClient('mongodb://localhost:27017/Culminate')
 db = connection.Culminate
 
+# Main class
+
 
 class insertingClass:
     """
@@ -35,24 +37,63 @@ class insertingClass:
         self.source = source
 
     def individualInsertObj(self):
+        """
+
+        Classifying according to the category
+
+        """
+
         if self.data['category'] == "General":
-            if db.generalMain.count() == 0:
-                db.generalMain.insert_one(self.data)
-            else:
-                if not db.generalMain.find({"uTag": str(self.data['uTag'])}).count() > 0:
-                    db.generalMain.insert_one(self.data)
-                    for document in db.generalMain.find():
-                        collision = fuzz.token_sort_ratio(
-                            str(self.data['title']), document['title'])
-                        print(collision)
-                        if int(collision) < 50:
-                            insertDoc = db.generalMain.insert_one(self.data)
-                            if insertDoc:
-                                logging.info('Insert new for general')
-                                logging.info('\n')
-                            else:
-                                logging.info('Error in insertion for general')
-                                logging.info('\n')
+            collectionInsert(db.General, "General", self.data)
+        # if self.data['category'] == "Technology":
+        #     collectionInsert(db.Technology, "Technology", self.data)
+        # if self.data['category'] == "Science":
+        #     collectionInsert(db.Science, "Science", self.data)
+        # if self.data['category'] == "Entertainment":
+        #     collectionInsert(db.Entertainment, "Entertainment", self.data)
+        # if self.data['category'] == "World":
+        #     collectionInsert(db.World, "World", self.data)
+        # if self.data['category'] == "Politics":
+        #     collectionInsert(db.Politics, "Politics", self.data)
+        # if self.data['category'] == "Business":
+        #     collectionInsert(db.Business, "Business", self.data)
+        # if self.data['category'] == "Health":
+        #     collectionInsert(db.Health, "Health", self.data)
+        # if self.data['category'] == "Education":
+        #     collectionInsert(db.Education, "Education", self.data)
+
+# Individual insertion fucntion
+
+
+def collectionInsert(collectionName, tag, data):
+    """
+
+    Inserting  function with respoect to the collection name parsed
+
+    """
+
+    if collectionName.count() == 0:
+        collectionName.insert_one(data)
+    else:
+
+        for document in collectionName.find():
+
+            collision = fuzz.token_sort_ratio(
+                str(data['title']), document['title'])
+            if int(collision) < 50:
+
+                if not db.generalMain.find({"uTag": str(data['uTag'])}).count() > 0:
+
+                    insertDoc = collectionName.insert_one(data)
+                    if insertDoc:
+
+                        logging.info('Insert new for ' + tag)
+                        logging.info('\n')
+                    else:
+                        logging.info('Error in insertion for ' + tag)
+                        logging.info('\n')
+
+# Parsing function
 
 
 def Type1parser(url, source, category, tag):
@@ -94,18 +135,6 @@ def Type1parser(url, source, category, tag):
                 str(item.title).encode('utf-8')).hexdigest()[:16]
             individualInsert = insertingClass(itemArray, category, source)
             individualInsert.individualInsertObj()
-            # array.append(itemArray)
-
-        # insertingClassObject=insertingClass(itemArray,category)
-        # insertingClassObject.mainClassObj()
-        # return "hi";
-
-    # insertingClassObject = insertingClass(array, category, source)
-    # insertingClassObject.tempTablePush()
-    # allocationCall = allocation(source)
-    # allocationCall.allocation_fun()
-
-    # print(json.dumps(posts))
 
 
 # main function
