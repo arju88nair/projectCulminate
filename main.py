@@ -68,30 +68,29 @@ class insertingClass:
 def collectionInsert(collectionName, tag, data):
     """
 
-    Inserting  function with respoect to the collection name parsed
+    Inserting  function with respect to the collection name parsed
 
     """
 
     if collectionName.count() == 0:
         collectionName.insert_one(data)
     else:
-
         for document in collectionName.find():
-
             collision = fuzz.token_sort_ratio(
                 str(data['title']), document['title'])
-            if int(collision) < 50:
+            tags = str(data['uTag'])
+            if db.General.find_one(
+                    {'uTag': tags}, {'_id': 1}):
+                pass
+            else:
+                insertDoc = collectionName.insert_one(data)
+                if insertDoc:
+                    logging.info('Insert new for ' + tag)
+                    logging.info('\n')
+                else:
+                    logging.info('Error in insertion for ' + tag)
+                    logging.info('\n')
 
-                if not db.generalMain.find({"uTag": str(data['uTag'])}).count() > 0:
-
-                    insertDoc = collectionName.insert_one(data)
-                    if insertDoc:
-
-                        logging.info('Insert new for ' + tag)
-                        logging.info('\n')
-                    else:
-                        logging.info('Error in insertion for ' + tag)
-                        logging.info('\n')
 
 # Parsing function
 
