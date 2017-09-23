@@ -85,14 +85,14 @@ def collectionInsert(collectionName, tag, data):
             else:
                 insertDoc = collectionName.insert_one(data)
                 if insertDoc:
-                    logging.info('Insert new for ' + tag +
-                                 "In " + collectionName)
+                    logging.info('Inserted new for ' + tag
+                                 )
                     logging.info('\n')
                 else:
                     logging.info('Error in insertion for ' + tag)
                     logging.info('\n')
 
-
+    print("Done for " + tag)
 # Parsing function
 
 
@@ -113,28 +113,34 @@ def Type1parser(url, source, category, tag):
         publishedTag = ""
         if 'published' in item:
             publishedTag = item.published
-        if 'media_content' in item:
+        # if 'media_content' in item:
             # takes stopwords as list of strings
-            Rake = RAKE.Rake('stopwords_en.txt')
-            words = Rake.run(item.title)
-            tagWordArray = []
-            for word in words:
-                tagWordArray.append(word[0].title())
-            itemArray = dict()
-            itemArray['title'] = item.title
-            itemArray['link'] = item.link
+        Rake = RAKE.Rake('stopwords_en.txt')
+        words = Rake.run(item.title)
+        tagWordArray = []
+        for word in words:
+            tagWordArray.append(word[0].title())
+        itemArray = dict()
+        itemArray['title'] = item.title
+        itemArray['link'] = item.link
+        if 'media_content' in item:
+
             itemArray['image'] = item.media_content[0]['url']
-            itemArray['published'] = publishedTag
-            itemArray['source'] = source
-            itemArray['type'] = tag
-            itemArray['category'] = category
-            itemArray['tags'] = tagWordArray
-            itemArray['created_at'] = str(datetime.now())
-            itemArray['uTag'] = hashlib.sha256(
-                str(item.title).encode('utf-8')).hexdigest()[:16]
-            individualInsert = insertingClass(itemArray, category, source)
-            individualInsert.individualInsertObj()
-    print(category + source)
+        if 'media_thumbnail' in item:
+
+            itemArray['image'] = item.media_thumbnail[0]['url']
+
+        itemArray['published'] = publishedTag
+        itemArray['source'] = source
+        itemArray['type'] = tag
+        itemArray['category'] = category
+        itemArray['tags'] = tagWordArray
+        itemArray['created_at'] = str(datetime.now())
+        itemArray['uTag'] = hashlib.sha256(
+            str(item.title).encode('utf-8')).hexdigest()[:16]
+        print("Inside iterating loop")
+        individualInsert = insertingClass(itemArray, category, source)
+        individualInsert.individualInsertObj()
 
 
 # main function
