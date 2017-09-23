@@ -44,28 +44,30 @@ class insertingClass:
         """
 
         if self.data['category'] == "General":
-            collectionInsert(db.General, "General", self.data)
+            collectionInsert(db.General, "General", self.data, self.source)
         if self.data['category'] == "Technology":
-            collectionInsert(db.Technology, "Technology", self.data)
+            collectionInsert(db.Technology, "Technology",
+                             self.data, self.source)
         if self.data['category'] == "Science":
-            collectionInsert(db.Science, "Science", self.data)
+            collectionInsert(db.Science, "Science", self.data, self.source)
         if self.data['category'] == "Entertainment":
-            collectionInsert(db.Entertainment, "Entertainment", self.data)
+            collectionInsert(db.Entertainment, "Entertainment",
+                             self.data, self.source)
         if self.data['category'] == "World":
-            collectionInsert(db.World, "World", self.data)
+            collectionInsert(db.World, "World", self.data, self.source)
         if self.data['category'] == "Politics":
-            collectionInsert(db.Politics, "Politics", self.data)
+            collectionInsert(db.Politics, "Politics", self.data, self.source)
         if self.data['category'] == "Business":
-            collectionInsert(db.Business, "Business", self.data)
+            collectionInsert(db.Business, "Business", self.data, self.source)
         if self.data['category'] == "Health":
-            collectionInsert(db.Health, "Health", self.data)
+            collectionInsert(db.Health, "Health", self.data, self.source)
         if self.data['category'] == "Education":
-            collectionInsert(db.Education, "Education", self.data)
+            collectionInsert(db.Education, "Education", self.data, self.source)
 
 # Individual insertion fucntion
 
 
-def collectionInsert(collectionName, tag, data):
+def collectionInsert(collectionName, tag, data, source):
     """
 
     Inserting  function with respect to the collection name parsed
@@ -85,14 +87,15 @@ def collectionInsert(collectionName, tag, data):
             else:
                 insertDoc = collectionName.insert_one(data)
                 if insertDoc:
-                    logging.info('Inserted new for ' + tag
+                    logging.info('Inserted new for ' + tag + "   for  " + source
                                  )
                     logging.info('\n')
                 else:
-                    logging.info('Error in insertion for ' + tag)
+                    logging.info('Error in insertion for ' +
+                                 tag + "   for  " + source)
                     logging.info('\n')
 
-    print("Done for " + tag)
+    print("Done for " + tag + " for " + source)
 # Parsing function
 
 
@@ -179,6 +182,9 @@ def main():
                 "BBC", "Technology", "Top")
     Type1parser("http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
                 "BBC", "Entertainment", "Top")
+
+    Type1parser("http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+                "Times of India", "Gneral", "Top")
 
 
 if __name__ == '__main__':
