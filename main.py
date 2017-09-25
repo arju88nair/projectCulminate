@@ -10,6 +10,7 @@ from calendar import timegm
 from datetime import datetime
 import hashlib
 from fuzzywuzzy import fuzz
+from bs4 import BeautifulSoup
 
 
 logging.basicConfig(filename='logger.log', level=logging.DEBUG)
@@ -114,7 +115,9 @@ def Type1parser(url, source, category, tag):
 
         summarys = ""
         if 'summary' in item:
-            summarys = item.summary
+            cleantext = BeautifulSoup(item.summary).text
+
+            summarys = cleantext
         publishedTag = ""
         if 'published' in item:
             publishedTag = item.published
@@ -139,10 +142,12 @@ def Type1parser(url, source, category, tag):
         itemArray['source'] = source
         itemArray['type'] = tag
         itemArray['category'] = category
+        itemArray['summary'] = summarys
         itemArray['tags'] = tagWordArray
         itemArray['created_at'] = str(datetime.now())
         itemArray['uTag'] = hashlib.sha256(
             str(item.title).encode('utf-8')).hexdigest()[:16]
+
         print("Inside iterating loop")
 
         individualInsert = insertingClass(itemArray, category, source)
@@ -193,26 +198,50 @@ def main():
 
 # New York Times
 
-    Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
-                "New York Times", "General", "Top")
+    # Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+    #             "New York Times", "General", "Top")
 
-    Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-                "New York Times", "World", "Top")
+    # Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+    #             "New York Times", "World", "Top")
 
-    Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
-                "New York Times", "Business", "Top")
+    # Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+    #             "New York Times", "Business", "Top")
 
-    Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
-                "New York Times", "Technology", "Top")
+    # Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+    #             "New York Times", "Technology", "Top")
 
-    Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/Sports.xml",
-                "New York Times", "Sports", "Top")
+    # Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/Sports.xml",
+    #             "New York Times", "Sports", "Top")
 
-    Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-                "New York Times", "Science", "Top")
+    # Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+    #             "New York Times", "Science", "Top")
 
-    Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
-                "New York Times", "Health", "Top")
+    # Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
+    #             "New York Times", "Health", "Top")
+
+
+# Reuters
+
+    Type1parser("http://feeds.reuters.com/reuters/INtopNews",
+                "Reuters India", "General", "Top")
+    Type1parser("http://feeds.reuters.com/reuters/INbusinessNews",
+                "Reuters India", "Business", "Top")
+    Type1parser("http://feeds.reuters.com/reuters/INsouthAsiaNews",
+                "Reuters India", "World", "Top")
+    Type1parser("http://feeds.reuters.com/reuters/INworldNews",
+                "Reuters India", "World", "Top")
+    Type1parser("http://feeds.reuters.com/reuters/INentertainmentNews",
+                "Reuters India", "Entertainment", "Top")
+    Type1parser("http://feeds.reuters.com/reuters/INsportsNews",
+                "Reuters India", "Sports", "Top")
+    Type1parser("http://feeds.reuters.com/reuters/INcricketNews",
+                "Reuters India", "Sports", "Top")
+    Type1parser("http://feeds.reuters.com/reuters/INtechnologyNews",
+                "Reuters India", "Technology", "Top")
+    Type1parser("http://feeds.reuters.com/reuters/INhealth",
+                "Reuters India", "Health", "Top")
+    Type1parser("http://feeds.reuters.com/reuters/INtopNews",
+                "Reuters India", "General", "Top")
 
 
 if __name__ == '__main__':
