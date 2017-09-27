@@ -240,8 +240,25 @@ def main():
                 "Reuters India", "Technology", "Top")
     Type1parser("http://feeds.reuters.com/reuters/INhealth",
                 "Reuters India", "Health", "Top")
-    Type1parser("http://feeds.reuters.com/reuters/INtopNews",
-                "Reuters India", "General", "Top")
+
+
+# The Guardian
+    Type1parser("https://www.theguardian.com/world/rss",
+                "The Guardian", "World", "Top")
+    Type1parser("https://www.theguardian.com/international/rss",
+                "The Guardian", "General", "Top")
+    Type1parser("https://www.theguardian.com/uk/environment/rss",
+                "The Guardian", "World", "Top")
+    Type1parser("https://www.theguardian.com/uk/money/rss",
+                "The Guardian", "Business", "Top")
+    Type1parser("https://www.theguardian.com/uk/business/rss",
+                "The Guardian", "Business", "Top")
+    Type1parser("https://www.theguardian.com/uk/technology/rss",
+                "The Guardian", "Technology", "Top")
+    Type1parser("https://www.theguardian.com/uk/sport/rss",
+                "The Guardian", "Sports", "Top")
+    Type1parser("https://www.theguardian.com/world/rss",
+                "The Guardian", "General", "Top")
 
 
 if __name__ == '__main__':
