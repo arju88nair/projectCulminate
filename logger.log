@@ -17839,3 +17839,6 @@ DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
 INFO:root:Inserted new for Health   for  Reuters India
 INFO:root:
 
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
