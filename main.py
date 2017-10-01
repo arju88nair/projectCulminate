@@ -12,6 +12,7 @@ import hashlib
 from fuzzywuzzy import fuzz
 from bs4 import BeautifulSoup
 import time
+start = time.time()
 
 
 logging.basicConfig(filename='logger.log', level=logging.DEBUG)
@@ -209,26 +210,26 @@ def main():
 
 # New York Times
 
-    # Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
-    #             "New York Times", "General", "Top")
+    Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+                "New York Times", "General", "Top")
 
-    # Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-    #             "New York Times", "World", "Top")
+    Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+                "New York Times", "World", "Top")
 
-    # Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
-    #             "New York Times", "Business", "Top")
+    Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+                "New York Times", "Business", "Top")
 
-    # Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
-    #             "New York Times", "Technology", "Top")
+    Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+                "New York Times", "Technology", "Top")
 
-    # Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/Sports.xml",
-    #             "New York Times", "Sports", "Top")
+    Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/Sports.xml",
+                "New York Times", "Sports", "Top")
 
-    # Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-    #             "New York Times", "Science", "Top")
+    Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+                "New York Times", "Science", "Top")
 
-    # Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
-    #             "New York Times", "Health", "Top")
+    Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
+                "New York Times", "Health", "Top")
 
 
 # Reuters
