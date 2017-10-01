@@ -18,7 +18,7 @@ Update:
 
 Have created two scripts for Multithreading and Multiprocessing for the same set of URLs(nearly 60 of them)
 Have to decide on which to choose to be the process for scrapping
-MP uses more CPU usage with 312.5(%.2 minutes)seconds and MT uses 903.95(15 minutes)
+MP uses more CPU usage with 312.5(%.2 minutes)seconds and MT uses 903.95(15 minutes)seconds
 Will be running more tests by considering CPU usage and different test conditions
 
 
