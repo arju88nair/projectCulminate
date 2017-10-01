@@ -1,10 +1,26 @@
-from multiprocessing import Pool
 
 
-def f(x):
-    return x * x
+import threading
+import time
+import feedparser  # pip install feedparser
 
 
-if __name__ == '__main__':
-    p = Pool(5)
-    print(p.map(f, [1, 2, 3]))
+start = time.time()
+urls = [["http://feeds.reuters.com/reuters/INtopNews", "General"],
+        ["http://feeds.reuters.com/reuters/INentertainmentNews", "Blah"]]
+
+
+def fetch_url(url):
+    feed = feedparser.parse(url[0])
+    array = []
+    for item in feed['entries']:
+        print(item.title)
+
+
+threads = [threading.Thread(target=fetch_url, args=(url,)) for url in urls]
+for thread in threads:
+    thread.start()
+for thread in threads:
+    thread.join()
+
+print ("Elapsed Time: %s" % (time.time() - start))
