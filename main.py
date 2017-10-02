@@ -116,6 +116,18 @@ def Type1parser(url, source, category, tag):
 
     """
 
+    if db.eTags.find({'source': source}, {"_id": 1}).count() > 0:
+        {
+            print(db.eTags.find({'source': source}, {"_id": 1}))
+        }
+    else:
+        {
+            print("D")
+
+        }
+
+    return
+
     feed = feedparser.parse(url)
     array = []
     for item in feed['entries']:
@@ -173,104 +185,104 @@ def main():
 
     Type1parser("http://rss.cnn.com/rss/edition.rss", "CNN", "General", "Top")
 
-    Type1parser("http://rss.cnn.com/rss/edition_world.rss",
-                "CNN", "World", "Top")
-    Type1parser("http://rss.cnn.com/rss/edition_technology.rss",
-                "CNN", "Technology", "Top")
-    Type1parser("http://rss.cnn.com/rss/edition_space.rss",
-                "CNN", "Science", "Top")
-    Type1parser("http://rss.cnn.com/rss/edition_entertainment.rss",
-                "CNN", "Entertainment", "Top")
-    Type1parser("http://rss.cnn.com/rss/cnn_latest.rss",
-                "CNN", "General", "Latest")
+#     Type1parser("http://rss.cnn.com/rss/edition_world.rss",
+#                 "CNN", "World", "Top")
+#     Type1parser("http://rss.cnn.com/rss/edition_technology.rss",
+#                 "CNN", "Technology", "Top")
+#     Type1parser("http://rss.cnn.com/rss/edition_space.rss",
+#                 "CNN", "Science", "Top")
+#     Type1parser("http://rss.cnn.com/rss/edition_entertainment.rss",
+#                 "CNN", "Entertainment", "Top")
+#     Type1parser("http://rss.cnn.com/rss/cnn_latest.rss",
+#                 "CNN", "General", "Latest")
 
-    Type1parser("http://feeds.bbci.co.uk/news/rss.xml",
-                "BBC", "General", "Top")
-    Type1parser("http://feeds.bbci.co.uk/news/world/rss.xml",
-                "BBC", "World", "Top")
-    Type1parser("http://feeds.bbci.co.uk/news/politics/rss.xml",
-                "BBC", "Politics", "Top")
-    Type1parser("http://feeds.bbci.co.uk/news/business/rss.xml",
-                "BBC", "Business", "Top")
-    Type1parser("http://feeds.bbci.co.uk/news/health/rss.xml",
-                "BBC", "Health", "Top")
-    Type1parser("http://feeds.bbci.co.uk/news/education/rss.xml",
-                "BBC", "Education", "Top")
-    Type1parser("http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-                "BBC", "Science", "Top")
-    Type1parser("http://feeds.bbci.co.uk/news/technology/rss.xml",
-                "BBC", "Technology", "Top")
-    Type1parser("http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
-                "BBC", "Entertainment", "Top")
+#     Type1parser("http://feeds.bbci.co.uk/news/rss.xml",
+#                 "BBC", "General", "Top")
+#     Type1parser("http://feeds.bbci.co.uk/news/world/rss.xml",
+#                 "BBC", "World", "Top")
+#     Type1parser("http://feeds.bbci.co.uk/news/politics/rss.xml",
+#                 "BBC", "Politics", "Top")
+#     Type1parser("http://feeds.bbci.co.uk/news/business/rss.xml",
+#                 "BBC", "Business", "Top")
+#     Type1parser("http://feeds.bbci.co.uk/news/health/rss.xml",
+#                 "BBC", "Health", "Top")
+#     Type1parser("http://feeds.bbci.co.uk/news/education/rss.xml",
+#                 "BBC", "Education", "Top")
+#     Type1parser("http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+#                 "BBC", "Science", "Top")
+#     Type1parser("http://feeds.bbci.co.uk/news/technology/rss.xml",
+#                 "BBC", "Technology", "Top")
+#     Type1parser("http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+#                 "BBC", "Entertainment", "Top")
 
-# Times of India
+# # Times of India
 
-    Type1parser("http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-                "Times of India", "General", "Top")
+#     Type1parser("http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+#                 "Times of India", "General", "Top")
 
-# New York Times
+# # New York Times
 
-    Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
-                "New York Times", "General", "Top")
+#     Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+#                 "New York Times", "General", "Top")
 
-    Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-                "New York Times", "World", "Top")
+#     Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+#                 "New York Times", "World", "Top")
 
-    Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
-                "New York Times", "Business", "Top")
+#     Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+#                 "New York Times", "Business", "Top")
 
-    Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
-                "New York Times", "Technology", "Top")
+#     Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+#                 "New York Times", "Technology", "Top")
 
-    Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/Sports.xml",
-                "New York Times", "Sports", "Top")
+#     Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/Sports.xml",
+#                 "New York Times", "Sports", "Top")
 
-    Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-                "New York Times", "Science", "Top")
+#     Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+#                 "New York Times", "Science", "Top")
 
-    Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
-                "New York Times", "Health", "Top")
-
-
-# Reuters
-
-    Type1parser("http://feeds.reuters.com/reuters/INtopNews",
-                "Reuters India", "General", "Top")
-    Type1parser("http://feeds.reuters.com/reuters/INbusinessNews",
-                "Reuters India", "Business", "Top")
-    Type1parser("http://feeds.reuters.com/reuters/INsouthAsiaNews",
-                "Reuters India", "World", "Top")
-    Type1parser("http://feeds.reuters.com/reuters/INworldNews",
-                "Reuters India", "World", "Top")
-    Type1parser("http://feeds.reuters.com/reuters/INentertainmentNews",
-                "Reuters India", "Entertainment", "Top")
-    Type1parser("http://feeds.reuters.com/reuters/INsportsNews",
-                "Reuters India", "Sports", "Top")
-    Type1parser("http://feeds.reuters.com/reuters/INcricketNews",
-                "Reuters India", "Sports", "Top")
-    Type1parser("http://feeds.reuters.com/reuters/INtechnologyNews",
-                "Reuters India", "Technology", "Top")
-    Type1parser("http://feeds.reuters.com/reuters/INhealth",
-                "Reuters India", "Health", "Top")
+#     Type1parser("http://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
+#                 "New York Times", "Health", "Top")
 
 
-# The Guardian
-    Type1parser("https://www.theguardian.com/world/rss",
-                "The Guardian", "World", "Top")
-    Type1parser("https://www.theguardian.com/international/rss",
-                "The Guardian", "General", "Top")
-    Type1parser("https://www.theguardian.com/uk/environment/rss",
-                "The Guardian", "World", "Top")
-    Type1parser("https://www.theguardian.com/uk/money/rss",
-                "The Guardian", "Business", "Top")
-    Type1parser("https://www.theguardian.com/uk/business/rss",
-                "The Guardian", "Business", "Top")
-    Type1parser("https://www.theguardian.com/uk/technology/rss",
-                "The Guardian", "Technology", "Top")
-    Type1parser("https://www.theguardian.com/uk/sport/rss",
-                "The Guardian", "Sports", "Top")
-    Type1parser("https://www.theguardian.com/world/rss",
-                "The Guardian", "General", "Top")
+# # Reuters
+
+#     Type1parser("http://feeds.reuters.com/reuters/INtopNews",
+#                 "Reuters India", "General", "Top")
+#     Type1parser("http://feeds.reuters.com/reuters/INbusinessNews",
+#                 "Reuters India", "Business", "Top")
+#     Type1parser("http://feeds.reuters.com/reuters/INsouthAsiaNews",
+#                 "Reuters India", "World", "Top")
+#     Type1parser("http://feeds.reuters.com/reuters/INworldNews",
+#                 "Reuters India", "World", "Top")
+#     Type1parser("http://feeds.reuters.com/reuters/INentertainmentNews",
+#                 "Reuters India", "Entertainment", "Top")
+#     Type1parser("http://feeds.reuters.com/reuters/INsportsNews",
+#                 "Reuters India", "Sports", "Top")
+#     Type1parser("http://feeds.reuters.com/reuters/INcricketNews",
+#                 "Reuters India", "Sports", "Top")
+#     Type1parser("http://feeds.reuters.com/reuters/INtechnologyNews",
+#                 "Reuters India", "Technology", "Top")
+#     Type1parser("http://feeds.reuters.com/reuters/INhealth",
+#                 "Reuters India", "Health", "Top")
+
+
+# # The Guardian
+#     Type1parser("https://www.theguardian.com/world/rss",
+#                 "The Guardian", "World", "Top")
+#     Type1parser("https://www.theguardian.com/international/rss",
+#                 "The Guardian", "General", "Top")
+#     Type1parser("https://www.theguardian.com/uk/environment/rss",
+#                 "The Guardian", "World", "Top")
+#     Type1parser("https://www.theguardian.com/uk/money/rss",
+#                 "The Guardian", "Business", "Top")
+#     Type1parser("https://www.theguardian.com/uk/business/rss",
+#                 "The Guardian", "Business", "Top")
+#     Type1parser("https://www.theguardian.com/uk/technology/rss",
+#                 "The Guardian", "Technology", "Top")
+#     Type1parser("https://www.theguardian.com/uk/sport/rss",
+#                 "The Guardian", "Sports", "Top")
+#     Type1parser("https://www.theguardian.com/world/rss",
+#                 "The Guardian", "General", "Top")
 
     print ('It took', time.time() - start, 'seconds.')
 

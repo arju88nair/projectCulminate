@@ -1,0 +1,5467 @@
+DEBUG:chardet.charsetprober:EUC-JP Japanese prober hit error at byte 2064
+DEBUG:chardet.charsetprober:EUC-JP Japanese prober hit error at byte 667
+DEBUG:chardet.charsetprober:EUC-KR Korean prober hit error at byte 2064
+DEBUG:chardet.charsetprober:GB2312 Chinese prober hit error at byte 667
+DEBUG:chardet.charsetprober:CP949 Korean prober hit error at byte 2064
+DEBUG:chardet.charsetprober:EUC-KR Korean prober hit error at byte 667
+DEBUG:chardet.charsetprober:Big5 Chinese prober hit error at byte 2065
+DEBUG:chardet.charsetprober:EUC-TW Taiwan prober hit error at byte 2064
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.7525
+DEBUG:chardet.charsetprober:Big5 Chinese prober hit error at byte 667
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan prober hit error at byte 667
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.9690625
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:utf-8 not active
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 not active
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese prober hit error at byte 15084
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese prober hit error at byte 19082
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 not active
+DEBUG:chardet.charsetprober:EUC-JP Japanese prober hit error at byte 17545
+DEBUG:chardet.charsetprober:EUC-JP Japanese prober hit error at byte 7193
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese prober hit error at byte 19943
+DEBUG:chardet.charsetprober:GB2312 not active
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese prober hit error at byte 15058
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean prober hit error at byte 17545
+DEBUG:chardet.charsetprober:Big5 not active
+DEBUG:chardet.charsetprober:EUC-KR Korean prober hit error at byte 7193
+DEBUG:chardet.charsetprober:EUC-KR Korean prober hit error at byte 19082
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:GB2312 Chinese prober hit error at byte 15084
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:EUC-JP Japanese prober hit error at byte 19941
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean prober hit error at byte 7193
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean prober hit error at byte 19082
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:CP949 Korean prober hit error at byte 17545
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:EUC-KR Korean prober hit error at byte 15058
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:GB2312 Chinese prober hit error at byte 19943
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:Big5 Chinese prober hit error at byte 19083
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese prober hit error at byte 7194
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese prober hit error at byte 17546
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean prober hit error at byte 15058
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:EUC-TW Taiwan prober hit error at byte 7193
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5330780978506132
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.9690625
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean prober hit error at byte 19941
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan prober hit error at byte 19082
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:EUC-TW Taiwan prober hit error at byte 17545
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.87625
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese prober hit error at byte 15059
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean prober hit error at byte 19941
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.7525
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.87625
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:Big5 Chinese prober hit error at byte 19942
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:CP949 not active
+DEBUG:chardet.charsetprober:Big5 not active
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:CP949 not active
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.0
+DEBUG:chardet.charsetprober:EUC-TW Taiwan prober hit error at byte 15058
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5712096324641418
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.0
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.042486898263309
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic confidence = 0.0, below negative shortcut threshhold 0.05
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5519475980855084
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan prober hit error at byte 19941
+DEBUG:chardet.charsetprober:Big5 not active
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.87625
+DEBUG:chardet.charsetprober:IBM866 confidence = 0.0, below negative shortcut threshhold 0.05
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5637583032079596
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:SHIFT_JIS not active
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:CP949 not active
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.7525
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.7525
+DEBUG:chardet.charsetprober:EUC-TW Taiwan prober hit error at byte 34987
+DEBUG:chardet.charsetprober:Big5 not active
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5489205118424866
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5899186576330794
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:SHIFT_JIS not active
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:GB2312 not active
+DEBUG:chardet.charsetprober:windows-1255 confidence = 0.0, below negative shortcut threshhold 0.05
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5287721847490529
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 confidence = 0.0, below negative shortcut threshhold 0.05
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5666074552383504
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese prober hit error at byte 18368
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5176388317619802
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5519475980855084
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 not active
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:CP949 not active
+DEBUG:chardet.charsetprober:Big5 not active
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.7525
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.0
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.006592085715930756
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5476390362315604
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 not active
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan prober hit error at byte 27816
+DEBUG:chardet.charsetprober:Big5 not active
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5519120073518337
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5586374875480489
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5354646728980038
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.87625
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:CP949 not active
+DEBUG:chardet.charsetprober:Big5 not active
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5532884058195023
+DEBUG:chardet.charsetprober:EUC-KR Korean prober hit error at byte 18368
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:CP949 not active
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5337385313631746
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.0
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.042486898263309
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 not active
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:EUC-TW Taiwan prober hit error at byte 13384
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5600046548431221
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5637583032079596
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5125496670871996
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.87625
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:MacCyrillic not active
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.6205082261165416
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.87625
+DEBUG:chardet.charsetprober:IBM866 not active
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.0
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.7525
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5639154547557623
+DEBUG:chardet.charsetprober:SHIFT_JIS not active
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5342281412508557
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan prober hit error at byte 18368
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5319689700429538
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5573181475901772
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.0
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 not active
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.7525
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:GB2312 not active
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.031990570478058575
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 not active
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:SHIFT_JIS not active
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5331269219778074
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.6091616986833894
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5558331957475603
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:CP949 not active
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 not active
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:Big5 not active
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 not active
+DEBUG:chardet.charsetprober:windows-1255 not active
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 not active
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.6154857369723953
+DEBUG:chardet.charsetprober:Big5 not active
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.7525
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.0
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.6082876122647717
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+INFO:root:Inserted new for General   for  Times of India
+INFO:root:
+
+INFO:root:Inserted new for Science   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for World   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for General   for  Times of India
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Science   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for World   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for General   for  Times of India
+INFO:root:
+
+INFO:root:Inserted new for Science   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for World   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for General   for  Times of India
+INFO:root:
+
+INFO:root:Inserted new for Science   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for World   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for World   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for World   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for World   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for World   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for World   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for World   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for World   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for World   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for World   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for World   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Education   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Business   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Education   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Health   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Science   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Education   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  Reuters India
+INFO:root:Inserted new for Sports   for  Reuters India
+INFO:root:
+
+INFO:root:
+
+INFO:root:Inserted new for Health   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Science   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Education   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for World   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Science   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for General   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Education   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Science   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for World   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Education   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  New York Times
+INFO:root:Inserted new for Sports   for  Reuters India
+INFO:root:
+
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Science   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Education   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  Reuters India
+INFO:root:Inserted new for World   for  Reuters India
+INFO:root:
+
+INFO:root:
+
+INFO:root:Inserted new for General   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Health   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Education   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Science   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  New York Times
+INFO:root:Inserted new for Sports   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Business   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  Reuters India
+INFO:root:
+
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for World   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Education   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Science   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Education   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  New York Times
+INFO:root:Inserted new for Sports   for  Reuters India
+INFO:root:
+
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Health   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for World   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Science   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Education   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Science   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  Reuters India
+INFO:root:Inserted new for Sports   for  Reuters India
+INFO:root:
+
+INFO:root:
+
+INFO:root:Inserted new for World   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Education   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Science   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Education   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for World   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Science   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Education   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Science   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Education   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Science   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Education   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Science   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Education   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for World   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Education   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Science   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for World   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Education   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Science   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Education   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Science   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Science   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Science   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Science   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  Reuters India
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Science   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  BBC
+INFO:root:Inserted new for Science   for  BBC
+INFO:root:
+
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Science   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Science   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Health   for  New York Times
+INFO:root:Inserted new for Entertainment   for  BBC
+INFO:root:
+
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Science   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Science   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Science   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Science   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Science   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for General   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Science   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Science   for  BBC
+INFO:root:Inserted new for General   for  BBC
+INFO:root:
+
+INFO:root:
+
+INFO:root:Inserted new for Health   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Science   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for General   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Science   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for General   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Science   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Science   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Health   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  BBC
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:
+
+INFO:root:Inserted new for Science   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Health   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for General   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Science   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for General   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Science   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for World   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Science   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for World   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Science   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for General   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Science   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for General   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for General   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Science   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for World   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Science   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for General   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Science   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for General   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for General   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for General   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Science   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for General   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for General   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for World   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for General   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:Inserted new for Science   for  New York Times
+INFO:root:
+
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for General   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  CNN
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Science   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Science   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Science   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for World   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Science   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Science   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for World   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Science   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for World   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Science   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for World   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Science   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Science   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Science   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for World   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:
+
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Entertainment   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Politics   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Health   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Sports   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  CNN
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Technology   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese prober hit error at byte 15084
+INFO:root:Inserted new for General   for  Times of India
+INFO:root:
+
+DEBUG:chardet.charsetprober:EUC-JP Japanese prober hit error at byte 15058
+DEBUG:chardet.charsetprober:EUC-JP Japanese prober hit error at byte 19082
+DEBUG:chardet.charsetprober:GB2312 Chinese prober hit error at byte 15084
+DEBUG:chardet.charsetprober:EUC-KR Korean prober hit error at byte 15058
+DEBUG:chardet.charsetprober:CP949 Korean prober hit error at byte 15058
+DEBUG:chardet.charsetprober:EUC-KR Korean prober hit error at byte 19082
+DEBUG:chardet.charsetprober:Big5 Chinese prober hit error at byte 15059
+DEBUG:chardet.charsetprober:CP949 Korean prober hit error at byte 19082
+DEBUG:chardet.charsetprober:EUC-TW Taiwan prober hit error at byte 15058
+DEBUG:chardet.charsetprober:Big5 Chinese prober hit error at byte 19083
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.87625
+DEBUG:chardet.charsetprober:SHIFT_JIS not active
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:GB2312 not active
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:CP949 not active
+DEBUG:chardet.charsetprober:Big5 not active
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5600046548431221
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.87625
+DEBUG:chardet.charsetprober:SHIFT_JIS not active
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:GB2312 not active
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:CP949 not active
+DEBUG:chardet.charsetprober:Big5 not active
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:EUC-TW Taiwan prober hit error at byte 19082
+DEBUG:chardet.charsetprober:EUC-JP Japanese prober hit error at byte 7193
+INFO:root:Inserted new for Health   for  Reuters India
+INFO:root:
+
+DEBUG:chardet.charsetprober:EUC-KR Korean prober hit error at byte 7193
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.87625
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:CP949 not active
+DEBUG:chardet.charsetprober:Big5 not active
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5354646728980038
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.87625
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:CP949 not active
+DEBUG:chardet.charsetprober:Big5 not active
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:CP949 Korean prober hit error at byte 7193
+DEBUG:chardet.charsetprober:Big5 Chinese prober hit error at byte 7194
+DEBUG:chardet.charsetprober:EUC-TW Taiwan prober hit error at byte 7193
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5519120073518337
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+INFO:root:Inserted new for General   for  Times of India
+INFO:root:
+
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.87625
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:CP949 not active
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5176388317619802
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 not active
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5532884058195023
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.87625
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:CP949 not active
+DEBUG:chardet.charsetprober:Big5 not active
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:EUC-JP Japanese prober hit error at byte 667
+DEBUG:chardet.charsetprober:GB2312 Chinese prober hit error at byte 667
+DEBUG:chardet.charsetprober:EUC-KR Korean prober hit error at byte 667
+INFO:root:Inserted new for Technology   for  CNN
+INFO:root:
+
+DEBUG:chardet.charsetprober:Big5 Chinese prober hit error at byte 667
+DEBUG:chardet.charsetprober:EUC-TW Taiwan prober hit error at byte 667
+DEBUG:chardet.charsetprober:utf-8 not active
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:GB2312 not active
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 not active
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5586374875480489
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.9690625
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5330780978506132
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.9690625
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese prober hit error at byte 19943
+INFO:root:Inserted new for Science   for  CNN
+INFO:root:
+
+DEBUG:chardet.charsetprober:EUC-JP Japanese prober hit error at byte 19941
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5337385313631746
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese prober hit error at byte 19943
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  Times of India
+INFO:root:
+
+DEBUG:chardet.charsetprober:EUC-KR Korean prober hit error at byte 19941
+DEBUG:chardet.charsetprober:MacCyrillic confidence = 0.0, below negative shortcut threshhold 0.05
+DEBUG:chardet.charsetprober:CP949 Korean prober hit error at byte 19941
+DEBUG:chardet.charsetprober:IBM866 confidence = 0.0, below negative shortcut threshhold 0.05
+DEBUG:chardet.charsetprober:Big5 Chinese prober hit error at byte 19942
+DEBUG:chardet.charsetprober:EUC-JP Japanese prober hit error at byte 17545
+DEBUG:chardet.charsetprober:EUC-TW Taiwan prober hit error at byte 19941
+DEBUG:chardet.charsetprober:EUC-KR Korean prober hit error at byte 17545
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.7525
+DEBUG:chardet.charsetprober:SHIFT_JIS not active
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:GB2312 not active
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:CP949 not active
+DEBUG:chardet.charsetprober:Big5 not active
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5639154547557623
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.7525
+DEBUG:chardet.charsetprober:SHIFT_JIS not active
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:GB2312 not active
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:CP949 not active
+DEBUG:chardet.charsetprober:Big5 not active
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:CP949 Korean prober hit error at byte 17545
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5542880900486442
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.0
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0756063549917831
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.562723986297891
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5489205118424866
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5353412042489768
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese prober hit error at byte 17546
+DEBUG:chardet.charsetprober:EUC-TW Taiwan prober hit error at byte 17545
+INFO:root:Inserted new for Sports   for  Reuters India
+INFO:root:
+
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.0
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0756063549917831
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.562723986297891
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5899186576330794
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:CP949 not active
+DEBUG:chardet.charsetprober:Big5 not active
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5125496670871996
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5542880900486442
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.0
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.006592085715930756
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5476390362315604
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+INFO:root:Inserted new for Entertainment   for  Reuters India
+INFO:root:
+
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.0
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5675378471043812
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.7525
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5331269219778074
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.7525
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.0
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5577033940846207
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+DEBUG:chardet.charsetprober:windows-1255 confidence = 0.0, below negative shortcut threshhold 0.05
+DEBUG:chardet.charsetprober:windows-1255 confidence = 0.0, below negative shortcut threshhold 0.05
+INFO:root:Inserted new for General   for  Times of India
+INFO:root:
+
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.0
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5319689700429538
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:MacCyrillic not active
+DEBUG:chardet.charsetprober:IBM866 not active
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.0
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.031990570478058575
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5557575344499398
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 not active
+DEBUG:chardet.charsetprober:windows-1255 not active
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+DEBUG:chardet.charsetprober:EUC-JP Japanese prober hit error at byte 18368
+DEBUG:chardet.charsetprober:EUC-TW Taiwan prober hit error at byte 27816
+DEBUG:chardet.charsetprober:EUC-TW Taiwan prober hit error at byte 34987
+DEBUG:chardet.charsetprober:EUC-KR Korean prober hit error at byte 18368
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.0
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.6091616986833894
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.7525
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.6205082261165416
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.7525
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW not active
+INFO:root:Inserted new for General   for  The Guardian
+INFO:root:
+
+DEBUG:chardet.charsetprober:EUC-TW Taiwan prober hit error at byte 13384
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.6154857369723953
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+DEBUG:chardet.charsetprober:EUC-TW Taiwan prober hit error at byte 18368
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.0
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.6082876122647717
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+INFO:root:Inserted new for General   for  BBC
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for World   for  The Guardian
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for General   for  New York Times
+INFO:root:
+
+INFO:root:Inserted new for Business   for  The Guardian
+INFO:root:
+
+DEBUG:chardet.charsetprober:EUC-JP Japanese prober hit error at byte 72936
+DEBUG:chardet.charsetprober:EUC-KR Korean prober hit error at byte 72936
+DEBUG:chardet.charsetprober:EUC-TW Taiwan prober hit error at byte 72936
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.938125
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.0
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.6194217913753155
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.938125
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW not active
