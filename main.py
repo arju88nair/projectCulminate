@@ -115,20 +115,48 @@ def Type1parser(url, source, category, tag):
     This class handles all the feed parsing jobs initialted by the main function
 
     """
+    etags = db.eTags.find({'source': source + category})
 
-    if db.eTags.find({'source': source}, {"_id": 1}).count() > 0:
-        {
-            print(db.eTags.find({'source': source}, {"_id": 1}))
-        }
+    if etags.count() > 0:
+        dEtag = etags[0]['etag']
+        feed = feedparser.parse(url, etag=dEtag)
+        if etag not in feed:
+            feed = feedparser.parse(url)
+            parsing(feed, source, category, tag)
+            return
+
+        if feed.status == 304:
+            print("304")
+            pass
+
+        elif feed.status == 200:
+
+            feed = feedparser.parse(url)
+            db.eTags.update_one({'source': source + category}, {
+                '$set': {'etag': feed.etag}}, upsert=True)
+            parsing(feed, source, category, tag)
+
     else:
-        {
-            print("D")
+        print("f")
+        feed = feedparser.parse(url)
+        print(feed)
+        if etag in feed:
+            db.eTags.update_one({'source': source + category}, {
+                '$set': {'etag': feed.etag}}, upsert=True)
 
-        }
+            parsing(feed, source, category, tag)
+
+        else:
+            parsing(feed, source, category, tag)
+            return
 
     return
 
-    feed = feedparser.parse(url)
+
+# main function
+
+def parsing(feed, source, category, tag):
+
     array = []
     for item in feed['entries']:
 
@@ -172,8 +200,6 @@ def Type1parser(url, source, category, tag):
         individualInsert.individualInsertObj()
 
 
-# main function
-
 def main():
     start = time.time()
 
@@ -183,10 +209,10 @@ def main():
 def main():
     """  Calling the main class parser for appropriate  rss feeds """
 
-    Type1parser("http://rss.cnn.com/rss/edition.rss", "CNN", "General", "Top")
+    # Type1parser("https://www.wired.com/feed/rss", "CNN", "General", "Top")
 
-#     Type1parser("http://rss.cnn.com/rss/edition_world.rss",
-#                 "CNN", "World", "Top")
+    Type1parser("http://rss.cnn.com/rss/edition_world.rss",
+                "CNN", "World", "Top")
 #     Type1parser("http://rss.cnn.com/rss/edition_technology.rss",
 #                 "CNN", "Technology", "Top")
 #     Type1parser("http://rss.cnn.com/rss/edition_space.rss",
