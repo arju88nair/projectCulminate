@@ -1,8 +1,6 @@
 from multiprocessing import Pool
 import time
 import feedparser  # pip install feedparser
-
-
 from pymongo import MongoClient
 import json
 import re
@@ -17,13 +15,6 @@ from bs4 import BeautifulSoup
 
 
 start = time.time()
-
-
-# def compute(url):
-#     feed = feedparser.parse(url)
-#     array = []
-#     for item in feed['entries']:
-#         return item.title
 
 
 start = time.time()
