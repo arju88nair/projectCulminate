@@ -149,6 +149,8 @@ def Type1parser(url):
         if 'media_thumbnail' in item:
 
             itemArray['image'] = item.media_thumbnail[0]['url']
+        if url[1] is "The Guardian":
+            string.replace(itemArray['image'], 'w=140', 'w=460', 1)
 
         itemArray['published'] = publishedTag
         itemArray['source'] = url[1]
@@ -161,6 +163,7 @@ def Type1parser(url):
             str(item.title).encode('utf-8')).hexdigest()[:16]
 
         print("Inside iterating loop")
+
         individualInsert = insertingClass(itemArray, url[2], url[1])
         individualInsert.individualInsertObj()
 
