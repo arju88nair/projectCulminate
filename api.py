@@ -149,8 +149,11 @@ def Type1parser(url):
         if 'media_thumbnail' in item:
 
             itemArray['image'] = item.media_thumbnail[0]['url']
-        if url[1] is "The Guardian":
-            string.replace(itemArray['image'], 'w=140', 'w=460', 1)
+         if url[1] == "The Guardian":
+                if len(item.media_content) > 1:
+                itemArray['image'] = item.media_content[1]['url']
+            else:
+                itemArray['image'] = item.media_content[0]['url']
 
         itemArray['published'] = publishedTag
         itemArray['source'] = url[1]
@@ -182,8 +185,6 @@ urls = [["https://www.theguardian.com/world/rss",
          "The Guardian", "Technology", "Top"],
         ["https://www.theguardian.com/uk/sport/rss",
          "The Guardian", "Sports", "Top"],
-        ["https://www.theguardian.com/world/rss",
-         "The Guardian", "General", "Top"],
         ["http://feeds.reuters.com/reuters/INtopNews",
          "Reuters India", "General", "Top"],
         ["http://feeds.reuters.com/reuters/INbusinessNews",
