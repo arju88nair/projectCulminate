@@ -13,19 +13,16 @@ import hashlib
 from fuzzywuzzy import fuzz
 from bs4 import BeautifulSoup
 
-
 start = time.time()
 
-
 start = time.time()
-
 
 logging.basicConfig(filename='logger.log', level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
-
 connection = MongoClient('mongodb://localhost:27017/Test', connect=False)
 db = connection.Culminate
+
 
 # Main class
 
@@ -74,6 +71,7 @@ class insertingClass:
         if self.data['category'] == "Sports":
             collectionInsert(db.Sports, "Sports", self.data, self.source)
 
+
 # Individual insertion fucntion
 
 
@@ -102,15 +100,17 @@ def collectionInsert(collectionName, tag, data, source):
             else:
                 insertDoc = db.Main.insert_one(data)
                 if insertDoc:
-                    logging.info('Inserted new for ' + tag + "   for  " + source
+                    logging.debug('Inserted new for ' + tag + "   for  " + source
                                  )
-                    logging.info('\n')
+                    logging.debug('\n')
                 else:
-                    logging.info('Error in insertion for ' +
+                    logging.debug('Error in insertion for ' +
                                  tag + "   for  " + source)
-                    logging.info('\n')
+                    logging.debug('\n')
 
     print("Done for " + tag + " for " + source)
+
+
 # Parsing function
 
 
@@ -133,7 +133,7 @@ def Type1parser(url):
         publishedTag = ""
         if 'published' in item:
             publishedTag = item.published
-        # if 'media_content' in item:
+            # if 'media_content' in item:
             # takes stopwords as list of strings
         Rake = RAKE.Rake('stopwords_en.txt')
         words = Rake.run(item.title)
@@ -144,16 +144,16 @@ def Type1parser(url):
         itemArray['title'] = item.title
         itemArray['link'] = item.link
         if 'media_content' in item:
-
             itemArray['image'] = item.media_content[0]['url']
         if 'media_thumbnail' in item:
-
             itemArray['image'] = item.media_thumbnail[0]['url']
-         if url[1] == "The Guardian":
+        if url[1] == "The Guardian":
+
+            if 'media_content' in item:
                 if len(item.media_content) > 1:
-                itemArray['image'] = item.media_content[1]['url']
-            else:
-                itemArray['image'] = item.media_content[0]['url']
+                    itemArray['image'] = item.media_content[1]['url']
+                else:
+                    itemArray['image'] = item.media_content[0]['url']
 
         itemArray['published'] = publishedTag
         itemArray['source'] = url[1]
@@ -253,8 +253,7 @@ urls = [["https://www.theguardian.com/world/rss",
          "CNN", "General", "Top"]
         ]
 
-
 if __name__ == '__main__':
     p = Pool(500)
     print(p.map(Type1parser, urls))
-    print ("Elapsed Time: %s" % (time.time() - start))
+    print("Elapsed Time: %s" % (time.time() - start))
