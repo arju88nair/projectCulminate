@@ -1,0 +1,11 @@
+Recommendation engine
+
+1)Create index in collection
+
+2)db.getCollection('World').find({
+    $text : {$search : "bama delivers veiled but withering rebuke of Trump and urges return to hope"}
+}, {
+    score : {$meta : "textScore" }
+}).sort({
+    score : {$meta : "textScore" }
+})
