@@ -2,10 +2,89 @@ Recommendation engine
 
 1)Create index in collection
 
-2)db.getCollection('World').find({
+2) .createIndex( { title: "text" } )
+
+3)db.getCollection('World').find({
     $text : {$search : "bama delivers veiled but withering rebuke of Trump and urges return to hope"}
 }, {
     score : {$meta : "textScore" }
 }).sort({
     score : {$meta : "textScore" }
 })
+
+
+
+
+
+
+Count based on subarray
+
+db.getCollection('PopularPosts').aggregate([
+            
+            {
+                $project: {
+                    _id: 1,
+                    "idPost": 1,
+                    "count":{$size:"$users"}
+                    
+                    
+                }
+            }
+            
+        ])
+
+
+
+
+
+Upsert for indexed array
+
+ 1) db.getCollection('PopularPosts').update({'idPost':"59e8e87bb0408e39d989f155",'users':['2']},
+{$push:{'users':54 }},upsert = true)    
+
+
+ 2) db.getCollection('PopularPosts').update({'idPost':"59e8e87bb0408e39d989f155",'users':['2']},
+{$addToSet:{'users':54 }},upsert = true)       
+
+
+
+$lookup
+
+1) db.PopularPosts.aggregate([
+    {
+      $lookup:
+        {
+          from: "Main",
+          localField: "idPost",
+          foreignField: "_id",
+          as: "Main"
+        }
+   }
+])
+
+
+2) db.PopularPosts.aggregate([
+    {
+      $lookup:
+        {
+          from: "Main",
+          localField: "idPost",
+          foreignField: "_id",
+          as: "Main"
+        }
+   },
+   {
+                $project: {
+                    _id: 1,
+                    "idPost": 1,
+                    "Main":1,
+                    "count":{$size:"$users"}
+                    
+                    
+                }
+            },
+             {
+                $limit: 10
+            },
+            {$sort: {'count': -1,'created_at':-1}}
+])

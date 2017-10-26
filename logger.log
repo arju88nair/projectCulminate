@@ -6785,3 +6785,4314 @@ DEBUG:root:
 DEBUG:root:Inserted new for General   for  The Guardian
 DEBUG:root:
 
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese prober hit error at byte 16249
+DEBUG:chardet.charsetprober:EUC-JP Japanese prober hit error at byte 667
+DEBUG:chardet.charsetprober:EUC-JP Japanese prober hit error at byte 1209
+DEBUG:chardet.charsetprober:GB2312 Chinese prober hit error at byte 667
+DEBUG:chardet.charsetprober:EUC-KR Korean prober hit error at byte 667
+DEBUG:chardet.charsetprober:Big5 Chinese prober hit error at byte 667
+DEBUG:chardet.charsetprober:EUC-TW Taiwan prober hit error at byte 667
+DEBUG:chardet.charsetprober:utf-8 not active
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:GB2312 not active
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 not active
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean prober hit error at byte 1209
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5586374875480489
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean prober hit error at byte 1209
+DEBUG:chardet.charsetprober:Big5 Chinese prober hit error at byte 1210
+DEBUG:chardet.charsetprober:EUC-TW Taiwan prober hit error at byte 1209
+DEBUG:chardet.charsetprober:EUC-JP Japanese prober hit error at byte 16237
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:CP949 not active
+DEBUG:chardet.charsetprober:Big5 not active
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5208337473410801
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:GB2312 Chinese prober hit error at byte 16249
+DEBUG:chardet.charsetprober:EUC-JP Japanese prober hit error at byte 28303
+DEBUG:chardet.charsetprober:EUC-KR Korean prober hit error at byte 16237
+DEBUG:chardet.charsetprober:CP949 Korean prober hit error at byte 16237
+DEBUG:chardet.charsetprober:Big5 Chinese prober hit error at byte 16238
+DEBUG:chardet.charsetprober:EUC-TW Taiwan prober hit error at byte 16237
+DEBUG:chardet.charsetprober:EUC-KR Korean prober hit error at byte 28303
+DEBUG:chardet.charsetprober:CP949 Korean prober hit error at byte 28303
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.938125
+DEBUG:chardet.charsetprober:SHIFT_JIS not active
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:GB2312 not active
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:CP949 not active
+DEBUG:chardet.charsetprober:Big5 not active
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5106460433292808
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.938125
+DEBUG:chardet.charsetprober:SHIFT_JIS not active
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:GB2312 not active
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:CP949 not active
+DEBUG:chardet.charsetprober:Big5 not active
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5957370889648154
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese prober hit error at byte 28304
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5464872736767263
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.54392458848593
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.537333789557176
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5269731547991899
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan prober hit error at byte 28303
+DEBUG:chardet.charsetprober:EUC-JP Japanese prober hit error at byte 13174
+DEBUG:chardet.charsetprober:EUC-JP Japanese prober hit error at byte 3272
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.87625
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:CP949 not active
+DEBUG:chardet.charsetprober:Big5 not active
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5338765725416104
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.87625
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:CP949 not active
+DEBUG:chardet.charsetprober:Big5 not active
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:EUC-KR Korean prober hit error at byte 13174
+DEBUG:chardet.charsetprober:EUC-KR Korean prober hit error at byte 3272
+DEBUG:chardet.charsetprober:CP949 Korean prober hit error at byte 13174
+DEBUG:chardet.charsetprober:CP949 Korean prober hit error at byte 3272
+DEBUG:chardet.charsetprober:Big5 Chinese prober hit error at byte 3273
+DEBUG:chardet.charsetprober:EUC-TW Taiwan prober hit error at byte 3272
+DEBUG:chardet.charsetprober:Big5 Chinese prober hit error at byte 13175
+DEBUG:chardet.charsetprober:EUC-TW Taiwan prober hit error at byte 13174
+DEBUG:chardet.charsetprober:EUC-JP Japanese prober hit error at byte 32667
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.87625
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:CP949 not active
+DEBUG:chardet.charsetprober:Big5 not active
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5297290984667837
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.87625
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:CP949 not active
+DEBUG:chardet.charsetprober:Big5 not active
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:windows-1255 confidence = 0.0, below negative shortcut threshhold 0.05
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.7525
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:CP949 not active
+DEBUG:chardet.charsetprober:Big5 not active
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5524316870536958
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.7525
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:CP949 not active
+DEBUG:chardet.charsetprober:Big5 not active
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:windows-1255 confidence = 0.0, below negative shortcut threshhold 0.05
+DEBUG:chardet.charsetprober:EUC-KR Korean prober hit error at byte 32667
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5536494129955633
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5504955365031361
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.050452175327108474
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.04234990588025061
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.07458590747707411
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.0
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.12449336164563848
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5465253138303305
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 not active
+DEBUG:chardet.charsetprober:windows-1255 not active
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean prober hit error at byte 32667
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5562338898669302
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.54392458848593
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.0
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.02050070566784443
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5522944842856381
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese prober hit error at byte 32668
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5614680872233911
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.0
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.17147460631005687
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5627204452028082
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan prober hit error at byte 32667
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.87625
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:CP949 not active
+DEBUG:chardet.charsetprober:Big5 not active
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5250380623854054
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.87625
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP not active
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR not active
+DEBUG:chardet.charsetprober:CP949 not active
+DEBUG:chardet.charsetprober:Big5 not active
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.938125
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5272905370780797
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.938125
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 confidence = 0.0, below negative shortcut threshhold 0.05
+DEBUG:chardet.charsetprober:windows-1255 confidence = 0.0, below negative shortcut threshhold 0.05
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.0
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.19554681575577887
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5554067603438531
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.0
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.01903305588094333
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5548643059933005
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 not active
+DEBUG:chardet.charsetprober:windows-1255 not active
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.061435255190971386
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.0
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.03588942434735855
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.5292932812646602
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.99
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan prober hit error at byte 32098
+DEBUG:chardet.charsetprober:EUC-TW Taiwan prober hit error at byte 49535
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.0
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.35982121203616346
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.6023301956105247
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.6231227282266275
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:EUC-TW Taiwan prober hit error at byte 111138
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.7525
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.0
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.6142303060411144
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.7525
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW not active
+DEBUG:chardet.charsetprober:utf-8  confidence = 0.505
+DEBUG:chardet.charsetprober:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-JP Japanese confidence = 0.01
+DEBUG:chardet.charsetprober:GB2312 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-KR Korean confidence = 0.01
+DEBUG:chardet.charsetprober:CP949 Korean confidence = 0.01
+DEBUG:chardet.charsetprober:Big5 Chinese confidence = 0.01
+DEBUG:chardet.charsetprober:EUC-TW Taiwan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:KOI8-R Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:MacCyrillic Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM866 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:IBM855 Russian confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-7 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1253 Greek confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-5 Bulgairan confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1251 Bulgarian confidence = 0.01
+DEBUG:chardet.charsetprober:TIS-620 Thai confidence = 0.01
+DEBUG:chardet.charsetprober:ISO-8859-9 Turkish confidence = 0.6066059841841983
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.0
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:chardet.charsetprober:windows-1255 Hebrew confidence = 0.01
+DEBUG:root:Inserted new for Entertainment   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Education   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  Times of India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:Inserted new for World   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:
+
+DEBUG:root:Inserted new for Education   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  Reuters India
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Education   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  CNN
+DEBUG:root:
+
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  Times of India
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  CNN
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  New York Times
+DEBUG:root:Inserted new for World   for  CNN
+DEBUG:root:
+
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  Times of India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Education   for  BBC
+DEBUG:root:Inserted new for Science   for  New York Times
+DEBUG:root:
+
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Education   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Education   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  Reuters India
+DEBUG:root:Inserted new for Technology   for  Reuters India
+DEBUG:root:Inserted new for Education   for  BBC
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:
+
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  Times of India
+DEBUG:root:
+
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Education   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  New York Times
+DEBUG:root:Inserted new for General   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Education   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Education   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Education   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  Reuters India
+DEBUG:root:Inserted new for General   for  BBC
+DEBUG:root:
+
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Education   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Education   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  Reuters India
+DEBUG:root:Inserted new for Science   for  New York Times
+DEBUG:root:
+
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Education   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Education   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  BBC
+DEBUG:root:Inserted new for Technology   for  CNN
+DEBUG:root:
+
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Education   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Education   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  BBC
+DEBUG:root:Inserted new for Technology   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Education   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  Reuters India
+DEBUG:root:Inserted new for Technology   for  New York Times
+DEBUG:root:
+
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Education   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Education   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Education   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Education   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Education   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Politics   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Entertainment   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Science   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  CNN
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  BBC
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Sports   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  New York Times
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for World   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Business   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for Technology   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
+DEBUG:root:Inserted new for General   for  The Guardian
+DEBUG:root:
+
