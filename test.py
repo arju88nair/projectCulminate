@@ -143,12 +143,16 @@ def Type1parser(url, source, category, tag):
         itemArray['title'] = item.title
         itemArray['link'] = item.link
         if 'media_content' in item:
-
             itemArray['image'] = item.media_content[0]['url']
         if 'media_thumbnail' in item:
-
             itemArray['image'] = item.media_thumbnail[0]['url']
-
+        if source == "The Guardian":
+            if 'media_content' in item:
+                if len(item.media_content) > 1:
+                    itemArray['image'] = item.media_content[1]['url']
+                else:
+                    itemArray['image'] = item.media_content[0]['url']
+        
         itemArray['published'] = publishedTag
         itemArray['source'] = source
         itemArray['type'] = tag
