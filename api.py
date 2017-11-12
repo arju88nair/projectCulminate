@@ -255,7 +255,29 @@ urls = [
         ["http://rss.cnn.com/rss/edition.rss",
          "CNN", "General", "Top"],
         ["http://feeds.mashable.com/Mashable",
-         "Mashable", "Technology", "Top"]
+         "Mashable", "Technology", "Top"],
+        ["https://feeds.feedburner.com/ndtvnews-top-stories",
+         "NDTV", "General", "Top"],
+        ["https://feeds.feedburner.com/ndtvnews-world-news",
+         "NDTV", "World", "Top"],
+        ["https://feeds.feedburner.com/ndtvsports-cricket",
+         "NDTV", "Sports", "Top"],
+        ["https://feeds.feedburner.com/ndtvnews-people",
+         "NDTV", "General", "Top"],
+        ["https://feeds.feedburner.com/ndtvnews-latest",
+         "NDTV", "General", "Top"],
+        ["https://feeds.feedburner.com/ndtvprofit-latest",
+         "NDTV", "Business", "Top"],
+        ["https://feeds.feedburner.com/gadgets360-latest",
+         "NDTV", "Technology", "Top"],
+        ["https://feeds.feedburner.com/ndtvnews-trending-news",
+         "NDTV", "General", "Top"],
+        ["https://feeds.feedburner.com/ndtvcooks-latest",
+         "NDTV", "Health", "Top"],
+        ["https://feeds.feedburner.com/ndtvnews-india-news",
+         "NDTV", "General", "Top"],
+        ["https://feeds.feedburner.com/ndtvsports-latest",
+         "NDTV", "Sports", "Top"]
         ]
 
 if __name__ == '__main__':
