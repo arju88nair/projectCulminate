@@ -306,6 +306,8 @@ urls = [
          "The Hindu", "Business", "Top"],
         ["http://www.thehindu.com/business/?service=rss",
          "The Hindu", "Business", "Top"],
+        ["http://rssfeeds.usatoday.com/usatoday-NewsTopStories",
+         "USA Today", "World", "Top"],
 
         ]
 
