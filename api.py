@@ -312,6 +312,6 @@ urls = [
         ]
 
 if __name__ == '__main__':
-    p = Pool(500)
+    p = Pool(10)
     print(p.map(Type1parser, urls))
     print("Elapsed Time: %s" % (time.time() - start))
