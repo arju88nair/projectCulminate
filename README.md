@@ -10,8 +10,9 @@ Instead of depending upon  3rd party API service for news feeds, started scrappi
 
 
 To be done in future:
-1) Have to include asynchio to increase performance
-2) Have to train a model to weed out fake,corrupted,incomplete
+1) FeedParser tag feature to not to crawl already crawled feeds
+2) Have to include asynchio to increase performance
+3) Have to train a model to weed out fake,corrupted,incomplete
 
 
 Update:
