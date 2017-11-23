@@ -13861,3 +13861,20 @@ DEBUG:root:
 DEBUG:root:Inserted new for General   for  The Guardian
 DEBUG:root:
 
+INFO:root:Entry for  http://feeds.reuters.com/reuters/INbusinessNews
+INFO:root:Entry for  http://feeds.reuters.com/reuters/INcricketNews
+INFO:root:Entry for  http://feeds.reuters.com/reuters/INhealth
+INFO:root:Entry for  http://feeds.reuters.com/reuters/INentertainmentNews
+INFO:root:Entry for  http://feeds.reuters.com/reuters/INsouthAsiaNews
+INFO:root:200 for  http://feeds.reuters.com/reuters/INhealth
+INFO:root:200 for  http://feeds.reuters.com/reuters/INentertainmentNews
+DEBUG:root:Inserted new for Entertainment   for  Reuters India
+DEBUG:root:
+
+DEBUG:root:Inserted new for Health   for  Reuters India
+DEBUG:root:
+
+INFO:root:200 for  http://feeds.reuters.com/reuters/INsouthAsiaNews
+DEBUG:root:Inserted new for World   for  Reuters India
+DEBUG:root:
+

@@ -123,58 +123,58 @@ def Type1parser(url):
 
     feed = eTagCheck(url[0], url[1])
 
-    if feed == 304:
-        print("304  " + url[0])
-    else:
-        print("200 " + url[0])
-    return
-    array = []
-    for item in feed['entries']:
+    if feed != 304:
+        array = []
+        for item in feed['entries']:
 
-        summarys = ""
-        if 'summary' in item:
-            cleantext = BeautifulSoup(item.summary, "lxml").text
+            summarys = ""
+            if 'summary' in item:
+                cleantext = BeautifulSoup(item.summary, "lxml").text
 
-            summarys = cleantext
-        publishedTag = ""
-        if 'published' in item:
-            publishedTag = item.published
-            # if 'media_content' in item:
-            # takes stopwords as list of strings
-        Rake = RAKE.Rake('stopwords_en.txt')
-        words = Rake.run(item.title)
-        tagWordArray = []
-        for word in words:
-            tagWordArray.append(word[0].title())
-        itemArray = dict()
-        itemArray['title'] = item.title
-        itemArray['link'] = item.link
-        if 'media_content' in item:
-            itemArray['image'] = item.media_content[0]['url']
-        if 'media_thumbnail' in item:
-            itemArray['image'] = item.media_thumbnail[0]['url']
-        if url[1] == "The Guardian":
-
+                summarys = cleantext
+            publishedTag = ""
+            if 'published' in item:
+                publishedTag = item.published
+                # if 'media_content' in item:
+                # takes stopwords as list of strings
+            Rake = RAKE.Rake('stopwords_en.txt')
+            words = Rake.run(item.title)
+            tagWordArray = []
+            for word in words:
+                tagWordArray.append(word[0].title())
+            itemArray = dict()
+            itemArray['title'] = item.title
+            itemArray['link'] = item.link
             if 'media_content' in item:
-                if len(item.media_content) > 1:
-                    itemArray['image'] = item.media_content[1]['url']
-                else:
-                    itemArray['image'] = item.media_content[0]['url']
+                itemArray['image'] = item.media_content[0]['url']
+            if 'media_thumbnail' in item:
+                itemArray['image'] = item.media_thumbnail[0]['url']
+            if url[1] == "The Guardian":
 
-        itemArray['published'] = publishedTag
-        itemArray['source'] = url[1]
-        itemArray['type'] = url[3]
-        itemArray['category'] = url[2]
-        itemArray['summary'] = summarys
-        itemArray['tags'] = tagWordArray
-        itemArray['created_at'] = str(datetime.now())
-        itemArray['uTag'] = hashlib.sha256(
-            str(item.title).encode('utf-8')).hexdigest()[:16]
+                if 'media_content' in item:
+                    if len(item.media_content) > 1:
+                        itemArray['image'] = item.media_content[1]['url']
+                    else:
+                        itemArray['image'] = item.media_content[0]['url']
 
-        print("Inside iterating loop")
+            itemArray['published'] = publishedTag
+            itemArray['source'] = url[1]
+            itemArray['type'] = url[3]
+            itemArray['category'] = url[2]
+            itemArray['summary'] = summarys
+            itemArray['tags'] = tagWordArray
+            itemArray['created_at'] = str(datetime.now())
+            itemArray['uTag'] = hashlib.sha256(
+                str(item.title).encode('utf-8')).hexdigest()[:16]
 
-        individualInsert = insertingClass(itemArray, url[2], url[1])
-        individualInsert.individualInsertObj()
+            print("Inside iterating loop")
+
+            individualInsert = insertingClass(itemArray, url[2], url[1])
+            individualInsert.individualInsertObj()
+
+    else:
+        logging.info("304 for  " + url[0])
+    return
 
 
 def eTagCheck(url, source):
@@ -185,7 +185,8 @@ def eTagCheck(url, source):
     d = feedparser.parse(url)
     if hasattr(d, 'etag'):
         entry = db.feeds.find_one({"feed": url})
-        if (entry):
+        if entry:
+            logging.info("Entry for  " + url)
             eTag = entry['eTag']
             db.feeds.update_one(
                 {"feed": url},
@@ -196,11 +197,14 @@ def eTagCheck(url, source):
             )
             feeds = feedparser.parse(url, etag=eTag)
             if feeds.status == 304:
+                logging.info("304 in eTagcheck for  " + url)
                 return 304
             else:
+                logging.info("200 for  " + url)
                 return feeds
 
         else:
+            logging.info("New for  " + url[0])
             db.feeds.update_one(
                 {"feed": url},
                 {
