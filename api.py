@@ -173,6 +173,7 @@ def Type1parser(url):
             individualInsert.individualInsertObj()
 
     else:
+        print("304")
         logging.info("304 for  " + url[0])
     return
 
@@ -196,12 +197,16 @@ def eTagCheck(url, source):
                 upsert=True,
             )
             feeds = feedparser.parse(url, etag=eTag)
-            if feeds.status == 304:
-                logging.info("304 in eTagcheck for  " + url)
-                return 304
+            if hasattr(feeds,'status'):
+                if feeds.status == 304:
+                    logging.info("304 in eTagcheck for  " + url)
+                    return 304
+                else:
+                    logging.info("200 for  " + url)
+                    return feeds
             else:
-                logging.info("200 for  " + url)
                 return feeds
+
 
         else:
             logging.info("New for  " + url[0])
