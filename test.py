@@ -19,13 +19,14 @@ import time
 start = time.time()
 
 
-logging.basicConfig(filename='logger.log', level=logging.DEBUG)
+logging.basicConfig(filename='logger.log', level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 
 connection = MongoClient('mongodb://localhost:27017/Culminate')
 db = connection.Culminate
 
+logging.info('Started ' + str(datetime.now()))
 # Main class
 
 
@@ -101,13 +102,13 @@ def collectionInsert(collectionName, tag, data, source):
             else:
                 insertDoc = db.Main.insert_one(data)
                 if insertDoc:
-                    logging.info('Inserted new for ' + tag + "   for  " + source
+                    logging.debug('Inserted new for ' + tag + "   for  " + source
                                  )
-                    logging.info('\n')
+                    logging.debug('\n')
                 else:
-                    logging.info('Error in insertion for ' +
+                    logging.debug('Error in insertion for ' +
                                  tag + "   for  " + source)
-                    logging.info('\n')
+                    logging.debug('\n')
 
     print("Done for " + tag + " for " + source)
 # Parsing function
@@ -119,53 +120,104 @@ def Type1parser(url, source, category, tag):
     This class handles all the feed parsing jobs initialted by the main function
 
     """
+    feed = eTagCheck(url, source)
 
-    feed = feedparser.parse(url)
-    array = []
-    for item in feed['entries']:
+    if feed != 304:
+        array = []
+        for item in feed['entries']:
 
-        summarys = ""
-        if 'summary' in item:
-            cleantext = BeautifulSoup(item.summary).text
+            summarys = ""
+            if 'summary' in item:
+                cleantext = BeautifulSoup(item.summary).text
 
-            summarys = cleantext
-        publishedTag = ""
-        if 'published' in item:
-            publishedTag = item.published
-        # if 'media_content' in item:
-            # takes stopwords as list of strings
-        Rake = RAKE.Rake('stopwords_en.txt')
-        words = Rake.run(item.title)
-        tagWordArray = []
-        for word in words:
-            tagWordArray.append(word[0].title())
-        itemArray = dict()
-        itemArray['title'] = item.title
-        itemArray['link'] = item.link
-        if 'media_content' in item:
-            itemArray['image'] = item.media_content[0]['url']
-        if 'media_thumbnail' in item:
-            itemArray['image'] = item.media_thumbnail[0]['url']
-        if source == "The Guardian":
+                summarys = cleantext
+            publishedTag = ""
+            if 'published' in item:
+                publishedTag = item.published
+                # if 'media_content' in item:
+                # takes stopwords as list of strings
+            Rake = RAKE.Rake('stopwords_en.txt')
+            words = Rake.run(item.title)
+            tagWordArray = []
+            for word in words:
+                tagWordArray.append(word[0].title())
+            itemArray = dict()
+            itemArray['title'] = item.title
+            itemArray['link'] = item.link
             if 'media_content' in item:
-                if len(item.media_content) > 1:
-                    itemArray['image'] = item.media_content[1]['url']
+                itemArray['image'] = item.media_content[0]['url']
+            if 'media_thumbnail' in item:
+                itemArray['image'] = item.media_thumbnail[0]['url']
+            if source == "The Guardian":
+                if 'media_content' in item:
+                    if len(item.media_content) > 1:
+                        itemArray['image'] = item.media_content[1]['url']
+                    else:
+                        itemArray['image'] = item.media_content[0]['url']
+
+            itemArray['published'] = publishedTag
+            itemArray['source'] = source
+            itemArray['type'] = tag
+            itemArray['category'] = category
+            itemArray['summary'] = summarys
+            itemArray['tags'] = tagWordArray
+            itemArray['created_at'] = str(datetime.now())
+            itemArray['uTag'] = hashlib.sha256(
+                str(item.title).encode('utf-8')).hexdigest()[:16]
+
+            print("Inside iterating loop")
+            individualInsert = insertingClass(itemArray, category, source)
+            individualInsert.individualInsertObj()
+    else:
+        print("304")
+        logging.debug("304 for  " + url[0])
+
+
+def eTagCheck(url, source):
+    """
+        eTagCheck determines if the feed is new or already processed
+        @params url : contains the url
+     """
+    d = feedparser.parse(url)
+    if hasattr(d, 'etag'):
+        entry = db.feeds.find_one({"feed": url})
+        if entry:
+            logging.debug("Entry for  " + url)
+            eTag = entry['eTag']
+            db.feeds.update_one(
+                {"feed": url},
+                {
+                    "$set": {"eTag": d.etag},
+                },
+                upsert=True,
+            )
+            feeds = feedparser.parse(url, etag=eTag)
+            if hasattr(feeds,'status'):
+                if feeds.status == 304:
+                    logging.debug("304 in eTagcheck for  " + url)
+                    return 304
                 else:
-                    itemArray['image'] = item.media_content[0]['url']
+                    logging.debug("200 for  " + url)
+                    return feeds
+            else:
+                return feeds
 
-        itemArray['published'] = publishedTag
-        itemArray['source'] = source
-        itemArray['type'] = tag
-        itemArray['category'] = category
-        itemArray['summary'] = summarys
-        itemArray['tags'] = tagWordArray
-        itemArray['created_at'] = str(datetime.now())
-        itemArray['uTag'] = hashlib.sha256(
-            str(item.title).encode('utf-8')).hexdigest()[:16]
 
-        print("Inside iterating loop")
-        individualInsert = insertingClass(itemArray, category, source)
-        individualInsert.individualInsertObj()
+        else:
+            logging.debug("New for  " + url[0])
+            db.feeds.update_one(
+                {"feed": url},
+                {
+                    "$set": {"eTag": d.etag},
+                },
+                upsert=True,
+            )
+            return feedparser.parse(url)
+    else:
+        return feedparser.parse(url)
+
+
+
 
 
 urls = [
@@ -313,5 +365,8 @@ for thread in threads:
     thread.start()
 for thread in threads:
     thread.join()
+
+
+
 
 print ("Elapsed Time: %s" % (time.time() - start))

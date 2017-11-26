@@ -175,7 +175,6 @@ def Type1parser(url):
     else:
         print("304")
         logging.info("304 for  " + url[0])
-    return
 
 
 def eTagCheck(url, source):
@@ -361,6 +360,7 @@ urls = [
 ]
 
 if __name__ == '__main__':
-    p = Pool(10)
+    logging.debug('Started ' + str(datetime.now()))
+    p = Pool()
     print(p.map(Type1parser, urls))
     print("Elapsed Time: %s" % (time.time() - start))
